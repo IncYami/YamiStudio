@@ -17,7 +17,7 @@
 | Kyoukai no Kanata I'LL BE HERE - Kako-hen  | Movie | 1 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Kyoukai no Kanata I'LL BE HERE - Mirai-hen  | Movie | 1 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Magia Record Mahou Shoujo Madoka☆Magica Gaiden  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
-| Mahou Shoujo Site  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Mahou Shoujo Site  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Overlord  | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Overlord II  | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Overlord III  | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
