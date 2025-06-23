@@ -1,8 +1,41 @@
----
-description: "Uma descrição concisa e informativa sobre o conteúdo deste repositório de legendas. Por exemplo: Legendas em Português (BR) para todas as temporadas e OVAs do anime X."
-languages:
-  - "pt-BR"
-  - "en-US"
-maintainer: "Sekkon"
-status: "Em revisão"
----
+| Anime | Tipo | Episódios | Status | Links |
+| --- | :---: | :---: | :---: | --- |
+| Black Bullet | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1958289) <br> [![Drive](https://img.shields.io/badge/Drive-Cloud-4A90E2?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/12345) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/user/repo/releases/tag/csm) |
+| Date A Live (DC) | TV | 12 + 1 (OVA) | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Date A Live IV  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Date A Live V  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Code Geass Lelouch of the Rebellion R1 | TV | 24 | ![Status](https://img.shields.io/badge/Em%20Andamento-22C55E?style=for-the-badge) |
+| Code Geass Lelouch of the Rebellion R2 | TV | 24 | ![Status](https://img.shields.io/badge/Em%20Andamento-22C55E?style=for-the-badge) |
+| Eromanga Sensei OVA  | OVA | 2 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Gabriel DropOut  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Gabriel DropOut Specials  | Specials | 2 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Kanata no Astra  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Kimi no Na wa. (Your Name.)  | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Kyokou Suiri  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Kyoukai no Kanata  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Kyoukai no Kanata #0 Shinonome  | OVA | 1 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Kyoukai no Kanata I'LL BE HERE - Kako-hen  | Movie | 1 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Kyoukai no Kanata I'LL BE HERE - Mirai-hen  | Movie | 1 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Magia Record Mahou Shoujo Madoka☆Magica Gaiden  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Mahou Shoujo Site  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Overlord  | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Overlord II  | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Overlord III  | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Overlord IV  | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Overlord The Sacred Kingdom  | Movie | 1 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Owari no Seraph  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Owari no Seraph Kyuuketsuki Shahal  | OVA | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Puella Magi Madoka Magica the Movie Part I Beginnings (Recap)  | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Puella Magi Madoka Magica the Movie Part II Eternal (Recap) | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Puella Magi Madoka Magica the Movie Part III Rebellion  | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| ReCREATORS  | TV | 22 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Sakasama no Patema  | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Sen to Chihiro no Kamikakushi (A Viagem de Chihiro)  | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Sentouin, Hakenshimasu!  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Shuumatsu no Harem  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| To LOVE-Ru  | TV | 24 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Tonikaku Kawaii SNS  | OVA | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA  | OVA | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Youjo Senki  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Youjo Senki Movie  | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Youjo Senki Sabaku no Pasta Daisakusen (ONA)  | ONA | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
