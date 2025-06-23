@@ -1,6 +1,6 @@
 | Anime | Tipo | Episódios | Status | Links |
 | --- | :---: | :---: | :---: | --- |
-| Black Bullet | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1958289) <br> [![Drive](https://img.shields.io/badge/Drive-Cloud-4A90E2?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/12345) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/user/repo/releases/tag/csm) |
+| Black Bullet | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1958289) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/user/repo/releases/tag/csm) |
 | Date A Live (DC) | TV | 12 + 1 (OVA) | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Date A Live IV  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Date A Live V  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
