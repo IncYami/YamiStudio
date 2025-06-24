@@ -4,8 +4,8 @@
 ### Projetos
 | Anime | Tipo | Episódios | Status | Links |
 | --- | :---: | :---: | :---: | --- |
-| Black Bullet | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1958289) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/IncYami/YamiStudio/refs/heads/main/%5BYami%5D%20Black%20Bullet%20%5BBD%5D.pt-BR.zip) |
-| Date A Live (DC) | TV | 12 + 1 (OVA) | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
+| Black Bullet | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1958289) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Black%20Bullet%20%5BBD%5D.pt-BR) |
+| Date A Live (DC) | TV | 12 + 1 (OVA) | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) | [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Date%20A%20Live%20(DC)%20%5BBD%5D.pt-BR) |
 | Date A Live IV  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Date A Live V  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Code Geass Lelouch of the Rebellion R1 | TV | 24 | ![Status](https://img.shields.io/badge/Em%20Andamento-22C55E?style=for-the-badge) |
