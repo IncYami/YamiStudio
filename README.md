@@ -9,7 +9,7 @@
 | Eromanga Sensei OVA  | OVA | 2 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
 | Gabriel DropOut  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Gabriel DropOut OVA  | OVA | 2 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
-| Kanata no Astra  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Kanata no Astra  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Kimi no Na wa. (Your Name.)  | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
 | Kyokou Suiri  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
 | Kyoukai no Kanata  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
