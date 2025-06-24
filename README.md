@@ -1,3 +1,6 @@
+# Yami Studio
+
+### Projetos
 | Anime | Tipo | Episódios | Status | Links |
 | --- | :---: | :---: | :---: | --- |
 | Black Bullet | TV | 13 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1958289) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/IncYami/YamiStudio/refs/heads/main/%5BYami%5D%20Black%20Bullet%20%5BBD%5D.pt-BR.zip) |
