@@ -11,7 +11,7 @@
 | Date A Live IV  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Date A Live V  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Code Geass Lelouch of the Rebellion R1 | TV | 25 | ![Status](https://img.shields.io/badge/Em%20Andamento-22C55E?style=for-the-badge) |
-| Eromanga Sensei OVA  | OVA | 2 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+| Eromanga Sensei OVA  | OVA | 2 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) [^1] |
 | Gabriel DropOut  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Gabriel DropOut OVA  | OVA | 2 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
 | Kanata no Astra  | TV | 12 | ![Status](https://img.shields.io/badge/Batch-0D6EFD?style=for-the-badge) |
@@ -44,3 +44,5 @@
 | Youjo Senki  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
 | Youjo Senki Movie  | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
 | Youjo Senki Sabaku no Pasta Daisakusen (ONA)  | ONA | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
+
+[^1]: Tradução refeita
