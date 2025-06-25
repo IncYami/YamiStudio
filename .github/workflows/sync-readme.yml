@@ -1,0 +1,31 @@
+# .github/workflows/sync-readme.yml
+name: Synchronize README with the docs folder
+
+on:
+  # Roda este workflow sempre que houver um push no branch 'main'
+  push:
+    branches:
+      - main
+    # Apenas se o arquivo README.md for modificado
+    paths:
+      - 'README.md'
+
+jobs:
+  copy-readme:
+    name: Copy README to docs/index.md
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Baixa o código do seu repositório para o ambiente do workflow
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      # 2. Copia o README.md para docs/index.md, sobrescrevendo o antigo
+      - name: Copy file
+        run: cp README.md docs/index.md
+
+      # 3. Faz o commit da alteração em docs/index.md de volta para o repositório
+      - name: Make updated file commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'docs: Synchronizes index.md with README'
+          file_pattern: 'docs/index.md'
