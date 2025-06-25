@@ -12,22 +12,22 @@
 | Date A Live V  | TV | 12 | 📦 Batch |
 | Code Geass Lelouch of the Rebellion R1 | TV | 25 | ![Status](https://img.shields.io/badge/Em%20Andamento-22C55E?style=for-the-badge) |
 | Eromanga Sensei OVA  | OVA | 2 | 📦 Batch [^1] | [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Eromanga%20Sensei%20OVA%20%5BBD%5D.pt-BR) |
-| Gabriel DropOut  | TV | 12 | 📦 Batch |
-| Gabriel DropOut OVA  | OVA | 2 | 📦 Batch |
-| Kanata no Astra  | TV | 12 | 📦 Batch |
+| Gabriel DropOut  | TV | 12 | 📦 Batch | [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Gabriel%20DropOut%20%5BBD%5D.pt-BR) |
+| Gabriel DropOut OVA  | OVA | 2 | 📦 Batch | [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Gabriel%20DropOut%20OVA%20%5BBD%5D.pt-BR) |
+| Kanata no Astra  | TV | 12 | 📦 Batch | [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Kanata%20no%20Astra%20%5BBD%5D.pt-BR) |
 | Kimi no Na wa. (Your Name.)  | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
 | Kyokou Suiri  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
-| Kyoukai no Kanata  | TV | 12 | 📦 Batch |
-| Kyoukai no Kanata #0 Shinonome  | OVA | 1 | 📦 Batch |
-| Kyoukai no Kanata I'LL BE HERE - Kako-hen  | Movie | 1 | 📦 Batch |
-| Kyoukai no Kanata I'LL BE HERE - Mirai-hen  | Movie | 1 | 📦 Batch |
+| Kyoukai no Kanata  | TV | 12 | 📦 Batch | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1952255) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Kyoukai%20no%20Kanata%20%5BBD%5D.pt-BR) |
+| Kyoukai no Kanata #0 Shinonome  | OVA | 1 | 📦 Batch | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1952256) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Kyoukai%20no%20Kanata%20%230%20Shinonome%20%5BBD%5D.pt-BR) |
+| Kyoukai no Kanata I'LL BE HERE - Kako-hen  | Movie | 1 | 📦 Batch | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1952267) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Kyoukai%20no%20Kanata%20I'LL%20BE%20HERE%20-%20Kako-hen%20%5BBD%5D.pt-BR) |
+| Kyoukai no Kanata I'LL BE HERE - Mirai-hen  | Movie | 1 | 📦 Batch | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1952269) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Kyoukai%20no%20Kanata%20I'LL%20BE%20HERE%20-%20Mirai-hen%20%5BBD%5D.pt-BR) |
 | Magia Record Mahou Shoujo Madoka☆Magica Gaiden  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
-| Mahou Shoujo Site  | TV | 12 | 📦 Batch |
-| Overlord  | TV | 13 | 📦 Batch |
-| Overlord II  | TV | 13 | 📦 Batch |
-| Overlord III  | TV | 13 | 📦 Batch |
-| Overlord IV  | TV | 13 | 📦 Batch |
-| Overlord The Sacred Kingdom  | Movie | 1 | 📦 Batch |
+| Mahou Shoujo Site  | TV | 12 | 📦 Batch | [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BMMS%20%26%20YS%5D%20Mahou%20Shoujo%20Site%20%5BBD%5D.pt-BR) |
+| Overlord  | TV | 13 | 📦 Batch | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1958290) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Overlord%20%5BBD%5D.pt-BR) |
+| Overlord II  | TV | 13 | 📦 Batch | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1958291) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Overlord%20II%20%5BBD%5D.pt-BR) |
+| Overlord III  | TV | 13 | 📦 Batch | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1958292) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Overlord%20III%20%5BBD%5D.pt-BR) |
+| Overlord IV  | TV | 13 | 📦 Batch | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1958293) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Overlord%20IV%20%5BBD%5D.pt-BR) |
+| Overlord The Sacred Kingdom  | Movie | 1 | 📦 Batch | [![Torrent](https://img.shields.io/badge/Torrent-Nyaa-247FCC?style=for-the-badge&logo=qbittorrent)](https://nyaa.si/view/1964148) <br> [![Legenda](https://img.shields.io/badge/Legenda-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/IncYami/YamiStudio/tree/main/%5BYami%5D%20Overlord%20The%20Sacred%20Kingdom%20%5BBD%5D.pt-BR) |
 | Owari no Seraph  | TV | 12 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
 | Owari no Seraph Kyuuketsuki Shahal  | OVA | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
 | Puella Magi Madoka Magica the Movie Part I Beginnings (Recap)  | Movie | 1 | ![Status](https://img.shields.io/badge/Em%20Revisão-DC3545?style=for-the-badge) |
