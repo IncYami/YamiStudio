@@ -2,7 +2,7 @@
 
 📜 Repositório oficial contendo todos os arquivos de legenda (.ass) dos projetos traduzidos e editados pela Yami Studio.
 
-### Projetos
+## Projetos
 
 | Anime | Tipo | Episódios | Status | Links |
 | --- | :---: | :---: | :---: | --- |
