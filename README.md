@@ -1,4 +1,4 @@
-# Yami Studio [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_CONVITE)
+# Yami Studio [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vsJwPayvz3)
 
 📜 Repositório oficial contendo todos os arquivos de legenda (.ass) dos projetos traduzidos e editados pela Yami Studio.
 
