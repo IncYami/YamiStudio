@@ -2,22 +2,24 @@
 $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
 
-// Headers
-$header-heading-color: #fff !default;
-$header-bg-color: #159957 !default;
-$header-bg-color-secondary: #155799 !default;
+// ========== PALETA DE CORES DARK ==========
 
-// Text
-$section-headings-color: #159957 !default;
-$body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
-$blockquote-text-color: #819198 !default;
+// Headers (Gradiente de Azul para Roxo)
+$header-heading-color: #ffffff !default;
+$header-bg-color: #2c3e50 !default;          // Azul escuro
+$header-bg-color-secondary: #4c2c92 !default; // Roxo
+
+// Texto
+$section-headings-color: #58a6ff !default; // Um azul claro para destaque
+$body-text-color: #c9d1d9 !default;      // Cinza claro para leitura
+$body-link-color: #58a6ff !default;      // Azul brilhante para links
+$blockquote-text-color: #8b949e !default; // Cinza um pouco mais escuro para citações
 
 // Code
-$code-bg-color: #f3f6fa !default;
-$code-text-color: #567482 !default;
+$code-bg-color: #161b22 !default;        // Fundo dos blocos de código (quase preto)
+$code-text-color: #c9d1d9 !default;      // Texto dentro dos blocos de código
 
 // Borders
-$border-color: #dce6f0 !default;
-$table-border-color: #e9ebec !default;
-$hr-border-color: #eff0f1 !default;
+$border-color: #30363d !default;         // Bordas (cinza escuro)
+$table-border-color: #30363d !default;   // Bordas de tabela
+$hr-border-color: #30363d !default;      // Linhas horizontais
