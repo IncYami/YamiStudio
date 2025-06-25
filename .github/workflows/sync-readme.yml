@@ -14,6 +14,10 @@ jobs:
   copy-readme:
     name: Copy README to docs/index.md
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
     steps:
       # 1. Baixa o código do seu repositório para o ambiente do workflow
       - name: Checkout do código
