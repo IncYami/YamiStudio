@@ -25,7 +25,7 @@
 - [Overlord The Sacred Kingdom](https://nyaa.si/view/1964148)
 
 ## 🟢 Projetos (Batch)
-> *Projetos que foram concluídos, passaram por uma revisão técnica final e foram relançados em pacotes (Batch). Estas são as versões mais estáveis, polidas e definitivas produzidas pelo grupo.*
+> *Projetos que foram concluídos, passaram por uma revisão técnica final e foram relançados em pacotes (Batch).*
 
 | Anime                                      | Tipo  | Episódios    | Status   |
 |--------------------------------------------|-------|--------------|----------|
@@ -53,7 +53,7 @@
 | Overlord The Sacred Kingdom                | Movie | 1            | 📦 Batch |
 
 ## 🟡 Projetos (Em Revisão)
-> *Projetos que já haviam sido lançados anteriormente, mas que estavam passando por um processo ativo de reformulação (v2) ou correção de erros quando as atividades foram encerradas. O material aqui reflete o último estado salvo antes da interrupção.*
+> *Projetos que já haviam sido lançados anteriormente, mas que estavam passando por um processo ativo de reformulação (v2) ou correção de erros quando as atividades foram encerradas.*
 
 | Anime                                                         | Tipo  | Episódios | Status        |
 |---------------------------------------------------------------|-------|-----------|---------------|
