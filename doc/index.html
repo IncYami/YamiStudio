@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encerramento das Atividades</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: #09090b;
+            color: #e4e4e7;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .ambient-glow {
+            position: absolute;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(139, 92, 246, 0.15) 0%, rgba(9, 9, 11, 0) 70%);
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .card {
+            background-color: #18181b;
+            border: 1px solid #27272a;
+            border-top: 4px solid #8b5cf6;
+            border-radius: 12px;
+            padding: 2.5rem;
+            max-width: 480px;
+            width: 90%;
+            text-align: center;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            position: relative;
+            z-index: 1;
+        }
+
+        .status-badge {
+            display: inline-block;
+            background-color: rgba(139, 92, 246, 0.1);
+            color: #a78bfa;
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 4px 12px;
+            border-radius: 9999px;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(139, 92, 246, 0.2);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        h1 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 1rem;
+        }
+
+        p {
+            color: #a1a1aa;
+            line-height: 1.6;
+            font-size: 0.95rem;
+            margin-bottom: 2rem;
+        }
+
+        /* --- NOVO CSS PARA O ÚLTIMO PROJETO --- */
+        .last-release {
+            background-color: #27272a;
+            border: 1px solid #3f3f46;
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 2rem;
+            display: flex;
+            gap: 16px;
+            align-items: center;
+            text-align: left;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+
+        .last-release:hover {
+            border-color: #8b5cf6;
+            transform: translateY(-2px);
+        }
+
+        .anime-cover {
+            width: 60px;
+            height: 85px;
+            background-color: #000;
+            border-radius: 6px;
+            object-fit: cover;
+            flex-shrink: 0;
+        }
+
+        .release-info { flex: 1; }
+
+        .release-tag {
+            color: #fbbf24; /* Amarelo ouro */
+            font-size: 0.65rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 4px;
+            display: block;
+        }
+
+        .anime-title {
+            color: #fff;
+            font-weight: 700;
+            font-size: 0.95rem;
+            margin-bottom: 8px;
+            line-height: 1.2;
+        }
+
+        .btn-download {
+            display: inline-block;
+            background-color: #fff;
+            color: #09090b;
+            font-size: 0.75rem;
+            font-weight: 700;
+            padding: 6px 12px;
+            border-radius: 6px;
+            text-decoration: none;
+            transition: background 0.2s;
+        }
+        
+        .btn-download:hover { background-color: #d4d4d8; }
+
+        @media (max-width: 400px) {
+            .last-release { flex-direction: column; text-align: center; }
+            .anime-cover { margin-bottom: 8px; }
+        }
+        /* -------------------------------------- */
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            background-color: #7c3aed;
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            padding: 12px 24px;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+            width: 100%;
+            border: 1px solid #7c3aed;
+        }
+
+        .btn:hover {
+            background-color: #6d28d9;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(124, 58, 237, 0.3);
+        }
+
+        .icon {
+            width: 20px;
+            height: 20px;
+            fill: currentColor;
+        }
+
+        .footer-note {
+            margin-top: 1.5rem;
+            font-size: 0.75rem;
+            color: #52525b;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="ambient-glow"></div>
+
+    <main class="card">
+        <div class="status-badge">Projeto Arquivado</div>
+        
+        <h1>Yami Studio</h1> 
+        
+        <p>
+            Informamos que encerramos nossas atividades. 
+            Agradecemos a todos que acompanharam nosso trabalho ao longo dessa jornada.
+        </p>
+        <p>
+            <strong>Antes de partirmos, deixamos um último lançamento:</strong>
+                <div class="last-release">
+                    <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2904-Fet9Q33suC7G.jpg" alt="Capa" class="anime-cover">
+                    
+                    <div class="release-info">
+                        <span class="release-tag">✨ Último Lançamento</span>
+                        <div class="anime-title">Code Geass: Lelouch of the Rebellion R2 [BD]</div>
+                        <a href="#" class="btn-download">Download</a>
+                    </div>
+                </div>
+        </p>
+        
+        <p>
+            Para fins de preservação, todo o histórico de legendas e projetos 
+            concluídos foi arquivado e está disponível publicamente.
+        </p>
+        <a href="https://github.com/IncYami/YamiStudio" class="btn" target="_blank">
+            <svg class="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.05-.015-2.07-3.345.72-4.05-1.605-4.05-1.605-.54-1.38-1.335-1.755-1.335-1.755-1.095-.75.09-.735.09-.735 1.215.09 1.845 1.245 1.845 1.245 1.08 1.845 2.835 1.32 3.525 1.005.105-.78.42-1.32.765-1.62-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405 1.02 0 2.04.135 3 .405 2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.285 0 .315.225.69.84.57A12.01 12.01 0 0024 12c0-6.63-5.37-12-12-12z"/>
+            </svg>
+            Acessar Arquivo no GitHub
+        </a>
+
+        <div class="footer-note">
+            &copy; 2020-2026 - O fim de uma era. Obrigado.
+        </div>
+    </main>
+
+</body>
+</html>
