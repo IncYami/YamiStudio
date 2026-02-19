@@ -89,7 +89,6 @@
 | Shelter                                                     | Music        | 1/1       | 🛑 Não Lançado |
 | Tsurezure Children                                          | TV Short     | 12/12     | 🛑 Não Lançado |
 | Under The Dog                                               | OVA          | 1/1       | 🛑 Não Lançado |
-| Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA     | OVA          | 1/1       | 🛑 Não Lançado |
 | Youjo Shenki                                                | ONA          | 1/13      | 🛑 Não Lançado |
 | Yuusha, Yamemasu                                            | TV           | 12/12     | 🛑 Não Lançado |
 | Yuusha, Yamemasu OVA                                        | OVA          | 2/2       | 🛑 Não Lançado |
