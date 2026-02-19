@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>2013</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>2013</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Abertura</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>62093</ChapterUID>
+      <ChapterTimeStart>00:01:01.061000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Afinação</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>232383</ChapterUID>
+      <ChapterTimeStart>00:03:51.356000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Água Embaixo da Ponte</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>434083</ChapterUID>
+      <ChapterTimeStart>00:07:13.058000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prova</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>747023</ChapterUID>
+      <ChapterTimeStart>00:12:25.995000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

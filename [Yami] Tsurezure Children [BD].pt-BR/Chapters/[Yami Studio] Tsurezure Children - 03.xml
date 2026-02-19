@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>16854841423037551290</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>16445197298821126845</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Abertura</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:01.061000000</ChapterTimeStart>
+      <ChapterUID>12493810965040963262</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Relacionamentos de Curta Distância</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:04:18.258000000</ChapterTimeStart>
+      <ChapterUID>4546163411154992789</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Vou Matar o Senpai</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:24.593000000</ChapterTimeStart>
+      <ChapterUID>1319771757974853033</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>O Amor É Estranho</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:09:47.462000000</ChapterTimeStart>
+      <ChapterUID>5901823430113040302</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Limpeza</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:12:25.995000000</ChapterTimeStart>
+      <ChapterUID>2604518497833903007</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

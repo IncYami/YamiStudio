@@ -1,0 +1,333 @@
+﻿[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Open Sans Semibold,54,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0000,0000,0042,1
+Style: Texto,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0010,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Titulo,Trebuchet MS,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0031,1
+Style: Titulo2,Times New Roman,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0014,1
+Style: Introtexto,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0010,0010,0010,1
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Dialogue,Trebuchet MS,22,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: conversas pessoais2,Arial,18,&H001422C2,&H00002EFF,&H001CB3BA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0038,1
+Style: White Signs,Arial,18,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,1
+Style: Black Signs 2,Arial,22,&H00000000,&H00002EFF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0020,1
+Style: nova rotina,Arial,18,&H00FFFFFF,&H000019FF,&H0073A2CD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0150,0086,1
+Style: amigos se ajudam,Arial,16,&H00658BAE,&H000019FF,&H00EAF5F8,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0401,0041,0087,1
+Style: coração,Trebuchet MS,22,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0450,0207,1
+Style: Kuroe,Trebuchet MS,16,&H00EDEFEE,&H000019FF,&H00181B12,&H0030382E,-1,0,0,0,100,100,0,-25,1,1,1,2,0060,0040,0270,1
+Style: Chamando,Trebuchet MS,17,&H00EDEFEE,&H000019FF,&H00181B12,&H0030382E,-1,0,0,0,100,100,0,-25,1,1,1,2,0050,0065,0240,1
+Style: Aceitar,Trebuchet MS,16,&H00FFF99C,&H000019FF,&H00181B12,&H0030382E,-1,0,0,0,100,100,0,-25,1,1,0,2,0040,0175,0205,1
+Style: Recusar,Trebuchet MS,16,&H00DBD8FF,&H000019FF,&H00181B12,&H0030382E,-1,0,0,0,100,100,0,-25,1,1,0,2,0040,0040,0175,1
+Style: Amigos,Arial,23,&H00C8EAF7,&H000019FF,&H00254872,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0107,1
+Style: Conversas pessoais,Arial,18,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,1
+Style: mantenha,Arial,23,&H00313948,&H000019FF,&H00E1F6FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0123,1
+Style: conversas pessoais2 - Copy,Arial,18,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0038,1
+Style: Título,Times New Roman,18,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0123,1
+Style: Título 2,Times New Roman,5,&H00FFFFFF,&H00003FFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0060,1
+Style: Vá para kamihama,Trebuchet MS,22,&H00292C55,&H000019FF,&H00E6EEF4,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: não perca,Trebuchet MS,22,&H005ADDE3,&H000019FF,&H00E059EE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0055,1
+Style: Song Subtitles,Trebuchet MS,22,&H00FFFFFF,&H000C11BA,&H10BE4095,&HC0000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: ShowTitle,Comic Sans MS,8,&H002A57DD,&H00000000,&H0000D4FF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0004,1
+Style: EpTitle,Verdana,5,&H00FFFFFF,&H00003FFF,&H00000000,&H00000000,-1,-1,0,0,90,100,0,0,1,0,0,8,0010,0010,0004,1
+Style: Black Signs,Arial,9,&H00000000,&H00003FFF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0005,0005,0009,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0003,0003,0015,1
+Style: Título ep 2,Times New Roman,21,&H00B49ECA,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0228,1
+Style: WhiteSigns,Arial,18,&H00FFFFFF,&H00003FFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0005,0005,0003,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:13.92,0:00:15.42,Dialogue,felicia,0000,0000,0000,,Vocês estão atrapalhando!
+Dialogue: 0,0:00:15.62,0:00:19.08,Dialogue,felicia,0000,0000,0000,,Nos deixem ir até onde a Iroha está!
+Dialogue: 0,0:00:28.88,0:00:30.76,Dialogue,tsukasa,0000,0000,0000,,Ei, o que estão fazendo?
+Dialogue: 0,0:00:31.02,0:00:34.14,Dialogue,tsukuyo,0000,0000,0000,,Vocês tentam impedir\Na liberdade das Garotas Mágicas!
+Dialogue: 0,0:00:34.14,0:00:35.76,Dialogue,tsukuyo,0000,0000,0000,,Não teremos piedade.
+Dialogue: 0,0:00:38.42,0:00:40.04,Dialogue,mifuyu,0000,0000,0000,,Tsukuyo. Tsukasa.
+Dialogue: 0,0:00:44.58,0:00:46.08,Dialogue,tsukuyo,0000,0000,0000,,Azusa?
+Dialogue: 0,0:00:47.16,0:00:49.50,Dialogue,mifuyu,0000,0000,0000,,Vamos terminar com isto.
+Dialogue: 0,0:00:49.96,0:00:52.54,Dialogue,mifuyu,0000,0000,0000,,O plano de Magius fracassou.
+Dialogue: 0,0:00:54.10,0:00:55.62,Dialogue,mifuyu,0000,0000,0000,,Eu sinto muito.
+Dialogue: 0,0:00:56.16,0:00:58.91,Dialogue,mifuyu,0000,0000,0000,,Eu forcei vocês a fazerem coisas terríveis.
+Dialogue: 0,0:00:59.26,0:01:01.48,Dialogue,tsukasa,0000,0000,0000,,Não! Se desistirmos agora...
+Dialogue: 0,0:01:01.64,0:01:03.56,Dialogue,tsukuyo,0000,0000,0000,,O que diremos às outras?
+Dialogue: 0,0:01:03.98,0:01:05.76,Dialogue,mifuyu,0000,0000,0000,,Eu realmente sinto muito.
+Dialogue: 0,0:01:09.80,0:01:16.50,Dialogue,mifuyu,0000,0000,0000,,Não devemos prejudicar\Nninguém para nos beneficiarmos.
+Dialogue: 0,0:02:46.42,0:02:48.04,Black Signs 2,,0000,0000,0000,,{\c&HE380A8&\fs35}Magia Record
+Dialogue: 0,0:02:46.42,0:02:48.04,Black Signs 2,,0000,0000,0000,,{\c&H71736A&\3c&HFFFFFF&\pos(335,302)\fs19}O amanhecer depois de um sono leve
+Dialogue: 0,0:02:52.10,0:02:52.73,Black Signs 2,,0000,0000,0000,,{\fs17\fad(300,1)\c&H3BF85D&\3c&H31372D&}Restauração
+Dialogue: 0,0:03:04.72,0:03:07.30,Dialogue,touka,0000,0000,0000,,Iroha?
+Dialogue: 0,0:03:13.22,0:03:14.20,Dialogue,iroha,0000,0000,0000,,Touka!
+Dialogue: 0,0:03:16.26,0:03:17.66,Dialogue,touka,0000,0000,0000,,Senti sua falta!
+Dialogue: 0,0:03:17.84,0:03:21.10,Dialogue,touka,0000,0000,0000,,Não. Nem conseguia sequer me aproximar...
+Dialogue: 0,0:03:21.24,0:03:23.39,Dialogue,touka,0000,0000,0000,,Nem podia sentir saudade.
+Dialogue: 0,0:03:23.70,0:03:25.48,Dialogue,iroha,0000,0000,0000,,Eu também.
+Dialogue: 0,0:03:25.68,0:03:29.80,Dialogue,iroha,0000,0000,0000,,Quando me lembrei de vocês,\Nnão pude deixar de sentir sua falta.
+Dialogue: 0,0:03:30.38,0:03:36.06,Dialogue,touka,0000,0000,0000,,Eu nunca vou te esquecer de novo, Iroha.
+Dialogue: 0,0:03:36.24,0:03:37.38,Dialogue,iroha,0000,0000,0000,,Nem eu!
+Dialogue: 0,0:03:39.36,0:03:43.14,Dialogue,nemu,0000,0000,0000,,Quanto tempo, Touka, Iroha.
+Dialogue: 0,0:03:43.72,0:03:45.68,Dialogue,iroha/touka,0000,0000,0000,,— Nemu.\N— Nemu?
+Dialogue: 0,0:03:46.14,0:03:47.76,Dialogue,nemu,0000,0000,0000,,Desculpa, Touka.
+Dialogue: 0,0:03:47.96,0:03:51.06,Dialogue,nemu,0000,0000,0000,,Eu esperava poder esconder isso de você até o fim.
+Dialogue: 0,0:03:51.50,0:03:55.96,Dialogue,nemu,0000,0000,0000,,Embora isso a tenha forçado\Na fazer algo que você não queria.
+Dialogue: 0,0:04:08.22,0:04:10.68,Dialogue,iroha,0000,0000,0000,,Calma, Touka!
+Dialogue: 0,0:04:10.98,0:04:15.44,Dialogue,touka,0000,0000,0000,,Eu... tentei te matar, Iroha?
+Dialogue: 0,0:04:15.80,0:04:16.72,Dialogue,iroha,0000,0000,0000,,Touka...
+Dialogue: 0,0:04:17.58,0:04:20.28,Dialogue,touka,0000,0000,0000,,Eu fiz o pacto para te salvar,
+Dialogue: 0,0:04:20.28,0:04:21.99,Dialogue,touka,0000,0000,0000,,mas eu tentei te matar!
+Dialogue: 0,0:04:22.62,0:04:23.66,Dialogue,touka,0000,0000,0000,,Por quê?!
+Dialogue: 0,0:04:23.66,0:04:26.88,Dialogue,iroha,0000,0000,0000,,Está tudo bem! Eu estou viva!
+Dialogue: 0,0:04:27.22,0:04:32.90,Dialogue,nemu,0000,0000,0000,,Usamos a Eva Embrionária para atrair\Ntropas para cumprir nosso plano.
+Dialogue: 0,0:04:33.12,0:04:36.88,Dialogue,nemu,0000,0000,0000,,É por isso que conversamos\Ncom garotas mágicas que sofreram.
+Dialogue: 0,0:04:37.08,0:04:38.46,Flashback,ui,0000,0000,0000,,Venha até a Cidade Kamihama.
+Dialogue: 0,0:04:38.68,0:04:41.38,Flashback,ui,0000,0000,0000,,Aqui, garotas mágicas podem ser salvas.
+Dialogue: 0,0:04:42.14,0:04:43.74,Dialogue,iroha,0000,0000,0000,,Aquela era você, Nemu?
+Dialogue: 0,0:04:44.38,0:04:50.62,Dialogue,nemu,0000,0000,0000,,Não esperávamos ter juntado apenas\NGarotas Mágicas muito fracas.
+Dialogue: 0,0:04:51.34,0:04:55.60,WhiteSigns,,0000,0000,0000,,{\fs15\pos(23,19)\c&H000000&\3c&HFFFFFF&}Fui enganada. Não quero morrer!\NNinguém vai me ajudar? Eu não vou ser uma garota mágica!\N Eu não sabia disso\NNinguém acredita em mim
+Dialogue: 0,0:04:51.62,0:04:56.32,Dialogue,nemu,0000,0000,0000,,Todas elas carregavam mais ansiedade\Ndo que podiam suportar.
+Dialogue: 0,0:04:57.94,0:05:00.80,Dialogue,nemu,0000,0000,0000,,"Magius salvará os fracos."
+Dialogue: 0,0:05:01.14,0:05:02.98,Dialogue,nemu,0000,0000,0000,,Foi assim que Touka viu,
+Dialogue: 0,0:05:02.98,0:05:07.49,Dialogue,nemu,0000,0000,0000,,que estava mudando ao ouvir todas aquelas vozes.
+Dialogue: 0,0:05:08.34,0:05:11.92,Dialogue,nemu,0000,0000,0000,,Preocupação, tristeza e raiva.
+Dialogue: 0,0:05:12.50,0:05:15.87,Dialogue,nemu,0000,0000,0000,,Touka se banhou nessas frustrações.
+Dialogue: 0,0:05:15.87,0:05:16.44,Black Signs 2,,0000,0000,0000,,{\fs15\pos(322,198)\c&H545352&}As pessoas morreram porque eu me atrasei?
+Dialogue: 0,0:05:16.44,0:05:17.04,Black Signs 2,,0000,0000,0000,,{\fs15\pos(322,198)\c&H545352&}Ninguém sabe nada sobre Garotas Mágicas. Por quê?
+Dialogue: 0,0:05:16.96,0:05:21.13,Dialogue,nemu,0000,0000,0000,,Até que Touka começou a ficar louca.
+Dialogue: 0,0:05:17.04,0:05:17.44,Black Signs 2,,0000,0000,0000,,{\fs15\pos(322,198)\c&H545352&}São todos cadáveres. Não posso comer.
+Dialogue: 0,0:05:17.44,0:05:18.13,Black Signs 2,,0000,0000,0000,,{\fs15\pos(322,198)\c&H545352&}As bruxas as mataram, não eu.
+Dialogue: 0,0:05:19.88,0:05:21.14,Black Signs 2,,0000,0000,0000,,{\fs17\pos(476,59)\c&H574A5F&}Eu não quero perdoar mais ninguém. \N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\NPor que só eu?
+Dialogue: 0,0:05:21.52,0:05:25.38,Dialogue,iroha,0000,0000,0000,,É por isso que temos que juntar as mãos e...
+Dialogue: 0,0:05:24.13,0:05:25.38,Black Signs 2,,0000,0000,0000,,{\fs19\c&H545352&\pos(489,141)}Garotas Mágicas, ha ha.\NÉ engraçado que levam a sério.
+Dialogue: 0,0:05:26.10,0:05:30.66,Dialogue,nemu,0000,0000,0000,,Só quem está no palco pode dar as mãos.
+Dialogue: 0,0:05:32.36,0:05:35.80,Dialogue,nemu,0000,0000,0000,,Para quem não pode ou não quer subir,
+Dialogue: 0,0:05:36.06,0:05:39.64,Dialogue,nemu,0000,0000,0000,,esses são consumidos pela raiva\Nem um lugar além do nosso alcance.
+Dialogue: 0,0:05:40.60,0:05:44.32,Dialogue,touka,0000,0000,0000,,Exatamente. \NEu sou a ira das Garotas Mágicas.
+Dialogue: 0,0:05:44.48,0:05:45.74,Dialogue,iroha,0000,0000,0000,,Touka?!
+Dialogue: 0,0:05:45.98,0:05:50.24,Dialogue,touka,0000,0000,0000,,Daquelas que nem sabem se podem se defender.
+Dialogue: 0,0:05:50.90,0:05:55.68,Dialogue,touka,0000,0000,0000,,Daquelas que se corrompem\Nesmagadas pela ansiedade.
+Dialogue: 0,0:05:56.08,0:06:00.26,Dialogue,touka,0000,0000,0000,,Meu dever é salvar essas Garotas Mágicas.
+Dialogue: 0,0:06:01.18,0:06:05.02,Dialogue,nemu,0000,0000,0000,,Decidimos mudar a moldura do mundo
+Dialogue: 0,0:06:05.22,0:06:08.26,Dialogue,nemu,0000,0000,0000,,para salvar aquelas fora do palco.
+Dialogue: 0,0:06:08.84,0:06:14.08,Dialogue,touka,0000,0000,0000,,Tivemos que aperfeiçoar\No sistema Doppel a todo custo.
+Dialogue: 0,0:06:15.58,0:06:17.72,Dialogue,touka,0000,0000,0000,,Desculpe, Iroha...!
+Dialogue: 0,0:06:18.10,0:06:20.90,Dialogue,touka,0000,0000,0000,,Eu envolvi você, e até tentei te matar!
+Dialogue: 0,0:06:21.40,0:06:23.42,Dialogue,iroha,0000,0000,0000,,Não importa. Está tudo bem agora.
+Dialogue: 0,0:06:23.98,0:06:26.74,Dialogue,iroha,0000,0000,0000,,Vocês queriam me ajudar, não é?
+Dialogue: 0,0:06:27.24,0:06:30.74,Dialogue,iroha,0000,0000,0000,,Vocês desistiram de seus\Ndestinos para me salvar.
+Dialogue: 0,0:06:31.26,0:06:34.24,Dialogue,touka,0000,0000,0000,,Era o que a Ui queria.
+Dialogue: 0,0:06:34.68,0:06:37.87,Dialogue,touka,0000,0000,0000,,E os seus desejos são os nossos desejos.
+Dialogue: 0,0:06:38.26,0:06:42.38,Dialogue,touka,0000,0000,0000,,Como eu poderia fazer algo assim\Ncom você porque esqueci?
+Dialogue: 0,0:06:44.94,0:06:46.54,Dialogue,iroha,0000,0000,0000,,Já não precisa mais disso.
+Dialogue: 0,0:06:46.78,0:06:51.50,Dialogue,iroha,0000,0000,0000,,Basta corrigirmos juntas\Ntodos os erros que cometemos.
+Dialogue: 0,0:06:52.18,0:06:53.48,Dialogue,touka,0000,0000,0000,,Iroha...
+Dialogue: 0,0:06:54.64,0:06:58.08,Dialogue,iroha,0000,0000,0000,,O importante é sempre o futuro.
+Dialogue: 0,0:06:58.28,0:07:01.28,Dialogue,touka,0000,0000,0000,,É verdade. Você tem razão.
+Dialogue: 0,0:07:01.62,0:07:02.60,Dialogue,iroha,0000,0000,0000,,Sim!
+Dialogue: 0,0:07:06.68,0:07:09.66,Dialogue,touka,0000,0000,0000,,Se vamos reparar os nossos erros,
+Dialogue: 0,0:07:09.82,0:07:12.70,Dialogue,touka,0000,0000,0000,,tenho que conferir uma coisa primeiro.
+Dialogue: 0,0:07:13.46,0:07:16.06,Dialogue,touka/nemu,0000,0000,0000,,— Nemu.\N— Que foi?
+Dialogue: 0,0:07:16.44,0:07:19.84,Dialogue,touka,0000,0000,0000,,Por que você não me contou a verdade?
+Dialogue: 0,0:07:20.66,0:07:22.14,Dialogue,nemu,0000,0000,0000,,Sinto muito, Touka.
+Dialogue: 0,0:07:22.32,0:07:25.74,Dialogue,touka,0000,0000,0000,,Eu não quero desculpas. \NExplique-me por quê.
+Dialogue: 0,0:07:26.67,0:07:28.46,Dialogue,nemu,0000,0000,0000,,Nosso plano falhou,
+Dialogue: 0,0:07:28.68,0:07:32.13,Dialogue,nemu,0000,0000,0000,,e quando preservamos a alma\Nda Ui no corpo de Kyubey,
+Dialogue: 0,0:07:32.60,0:07:36.81,Dialogue,nemu,0000,0000,0000,,isso separou a existência\Nda Ui do nosso universo.
+Dialogue: 0,0:07:37.44,0:07:46.16,Dialogue,nemu,0000,0000,0000,,É por isso que você se esqueceu dela\Ne da Iroha, que era parente da Ui,
+Dialogue: 0,0:07:47.12,0:07:52.70,Dialogue,nemu,0000,0000,0000,,e Iroha se esqueceu de Ui e de nós.
+Dialogue: 0,0:07:53.56,0:07:58.18,Dialogue,nemu,0000,0000,0000,,Nesse ponto, eu estava prestes a desistir de tudo.
+Dialogue: 0,0:07:59.30,0:08:02.84,Dialogue,nemu,0000,0000,0000,,Não me parecia que este mundo\Ntivesse qualquer valor.
+Dialogue: 0,0:08:04.38,0:08:09.70,Dialogue,nemu,0000,0000,0000,,Mas você seguiu em frente com o plano\Nmesmo depois de esquecer Ui.
+Dialogue: 0,0:08:10.94,0:08:14.76,Dialogue,nemu,0000,0000,0000,,Você encontrou uma nova razão para agir.
+Dialogue: 0,0:08:15.36,0:08:18.92,Dialogue,nemu,0000,0000,0000,,Isso me deu esperança.
+Dialogue: 0,0:08:19.46,0:08:22.08,Dialogue,nemu,0000,0000,0000,,Nosso plano ainda não havia terminado.
+Dialogue: 0,0:08:23.16,0:08:26.62,Dialogue,touka,0000,0000,0000,,Então, você não disse nada
+Dialogue: 0,0:08:26.76,0:08:30.73,Dialogue,touka,0000,0000,0000,,porque pensou que eu abandonaria\No plano se me lembrasse delas?
+Dialogue: 0,0:08:31.12,0:08:32.12,Dialogue,nemu,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:32.36,0:08:37.36,Dialogue,touka,0000,0000,0000,,Foi melhor para você que eu\Nnão tivesse minhas memórias?
+Dialogue: 0,0:08:37.88,0:08:40.18,Dialogue,nemu/touka,0000,0000,0000,,— Sim.\N— Pare de brincar!
+Dialogue: 0,0:08:41.70,0:08:46.50,Dialogue,nemu,0000,0000,0000,,Touka, eu não podia desistir do nosso plano.
+Dialogue: 0,0:08:47.84,0:08:50.50,Dialogue,nemu,0000,0000,0000,,Agora que você se lembra de tudo,
+Dialogue: 0,0:08:51.42,0:08:53.40,Dialogue,nemu,0000,0000,0000,,qual é o seu desejo?
+Dialogue: 0,0:08:53.86,0:08:56.58,Dialogue,touka,0000,0000,0000,,Para mim, aquele quarto de hospital
+Dialogue: 0,0:08:56.82,0:09:01.30,Dialogue,touka,0000,0000,0000,,e o tempo que passamos com a Iroha é tudo.
+Dialogue: 0,0:09:01.82,0:09:03.34,Dialogue,nemu,0000,0000,0000,,Para mim também.
+Dialogue: 0,0:09:03.50,0:09:07.40,Dialogue,nemu,0000,0000,0000,,São os momentos mais felizes\Ne preciosos que tenho na vida.
+Dialogue: 0,0:09:07.74,0:09:12.40,Dialogue,touka,0000,0000,0000,,Tendo essas memórias,\Nsou capaz de qualquer coisa.
+Dialogue: 0,0:09:12.90,0:09:14.40,Dialogue,touka,0000,0000,0000,,Claro que sou!
+Dialogue: 0,0:09:14.90,0:09:16.08,Dialogue,nemu,0000,0000,0000,,Eu também.
+Dialogue: 0,0:09:16.44,0:09:18.28,Dialogue,nemu,0000,0000,0000,,Não tenho nada a perder.
+Dialogue: 0,0:09:19.98,0:09:26.72,Dialogue,touka,0000,0000,0000,,Iroha nunca iria querer\Nsacrificar outros para se salvar.
+Dialogue: 0,0:09:27.22,0:09:28.96,Dialogue,touka,0000,0000,0000,,E nem a Ui.
+Dialogue: 0,0:09:29.20,0:09:31.18,Dialogue,touka,0000,0000,0000,,Nunca desejaria algo assim.
+Dialogue: 0,0:09:31.38,0:09:37.80,Dialogue,touka,0000,0000,0000,,É precisamente por isso que temos\Nde realizar isso, por conta própria!
+Dialogue: 0,0:09:38.98,0:09:44.18,Dialogue,touka,0000,0000,0000,,É normal que tenha ficado preocupada que eu\Nabandonasse o plano quando me lembrasse de tudo.
+Dialogue: 0,0:09:44.70,0:09:50.12,Dialogue,touka,0000,0000,0000,,Considerando o risco, você fez\Nbem em esconder isso de mim.
+Dialogue: 0,0:09:51.06,0:09:52.70,Dialogue,nemu,0000,0000,0000,,Desculpa, Touka.
+Dialogue: 0,0:09:53.02,0:09:56.80,Dialogue,nemu,0000,0000,0000,,Eu tinha medo de estar errada.
+Dialogue: 0,0:09:57.58,0:10:00.16,Dialogue,nemu,0000,0000,0000,,Mas graças a você, eu me lembrei.
+Dialogue: 0,0:10:01.02,0:10:03.38,Dialogue,nemu,0000,0000,0000,,Mesmo que seja um erro,
+Dialogue: 0,0:10:03.68,0:10:07.71,Dialogue,nemu,0000,0000,0000,,vamos provar que a alma da Ui existiu.
+Dialogue: 0,0:10:07.92,0:10:11.20,Dialogue,iroha,0000,0000,0000,,O que é isso? Do que estão falando?
+Dialogue: 0,0:10:11.60,0:10:14.98,Dialogue,touka,0000,0000,0000,,Fizemos uma promessa para a Ui.\NE nós a cumpriremos.
+Dialogue: 0,0:10:15.28,0:10:17.97,Dialogue,touka,0000,0000,0000,,Mesmo que ela não queira.
+Dialogue: 0,0:10:18.32,0:10:21.60,Dialogue,nemu,0000,0000,0000,,Sim, vamos completar o plano.
+Dialogue: 0,0:10:21.88,0:10:25.35,Dialogue,iroha,0000,0000,0000,,Esperem um pouco! Não podem!\NPor que acabaram assim?
+Dialogue: 0,0:10:25.84,0:10:26.92,Dialogue,touka,0000,0000,0000,,Eu já te disse.
+Dialogue: 0,0:10:27.08,0:10:31.62,Dialogue,touka,0000,0000,0000,,Se aperfeiçoarmos o sistema Doppel,\Nmudaremos o quadro da tragédia.
+Dialogue: 0,0:10:31.62,0:10:35.28,Dialogue,iroha,0000,0000,0000,,A diferença será apenas de se transformar\Nem uma bruxa ou em um Doppel.
+Dialogue: 0,0:10:35.44,0:10:38.32,Dialogue,iroha,0000,0000,0000,,O sistema Doppel não salvará ninguém!
+Dialogue: 0,0:10:38.56,0:10:42.86,Dialogue,nemu,0000,0000,0000,,É verdade que agora, o sistema tem seus defeitos,
+Dialogue: 0,0:10:43.22,0:10:46.28,Dialogue,nemu,0000,0000,0000,,mas podemos aperfeiçoá-lo.
+Dialogue: 0,0:10:46.88,0:10:50.38,Dialogue,touka,0000,0000,0000,,E claro, terá que haver alguns sacrifícios,
+Dialogue: 0,0:10:50.58,0:10:56.64,Dialogue,touka,0000,0000,0000,,mas é necessário para evitar futuras\Ntragédias de Garotas Mágicas.
+Dialogue: 0,0:11:00.12,0:11:01.12,Dialogue,iroha,0000,0000,0000,,Quê?!
+Dialogue: 0,0:11:01.64,0:11:05.81,Dialogue,nemu,0000,0000,0000,,Aí você vai resistir ao colapso de Kamihama.
+Dialogue: 0,0:11:06.12,0:11:08.92,Dialogue,iroha,0000,0000,0000,,Não! Não machuquem mais ninguém!
+Dialogue: 0,0:11:09.06,0:11:11.08,Dialogue,iroha,0000,0000,0000,,Não é o que queremos!
+Dialogue: 0,0:11:11.08,0:11:12.46,Dialogue,touka,0000,0000,0000,,Fique tranquila.
+Dialogue: 0,0:11:12.64,0:11:14.82,Dialogue,touka,0000,0000,0000,,Nós que somos as vilãs aqui.
+Dialogue: 0,0:11:15.02,0:11:16.40,Dialogue,touka,0000,0000,0000,,Você não tem culpa.
+Dialogue: 0,0:11:16.68,0:11:20.30,Dialogue,iroha,0000,0000,0000,,Diga que é mentira...\NVocê não diria algo assim, Touka!
+Dialogue: 0,0:11:20.30,0:11:24.68,Dialogue,nemu,0000,0000,0000,,Quando você acordar, o pior já vai ter passado.
+Dialogue: 0,0:11:24.94,0:11:26.20,Dialogue,iroha,0000,0000,0000,,Esperem! Parem!
+Dialogue: 0,0:11:26.56,0:11:29.91,Dialogue,nemu,0000,0000,0000,,Nós falhamos, mas ainda há esperança.
+Dialogue: 0,0:11:30.14,0:11:31.75,Dialogue,iroha,0000,0000,0000,,Olhem nos meus olhos!
+Dialogue: 0,0:11:32.22,0:11:33.58,Dialogue,nemu,0000,0000,0000,,É porque para nós...
+Dialogue: 0,0:11:33.78,0:11:34.84,Dialogue,touka,0000,0000,0000,,Ainda temos a Ui.
+Dialogue: 0,0:11:35.10,0:11:38.34,Dialogue,iroha/nemu,0000,0000,0000,,— Por favor!\N— Descanse bem, Iroha.
+Dialogue: 0,0:11:38.56,0:11:40.09,Dialogue,iroha,0000,0000,0000,,Não!
+Dialogue: 0,0:11:52.58,0:11:56.44,Dialogue,nemu,0000,0000,0000,,Vamos retomar o nosso erro.
+Dialogue: 0,0:11:57.00,0:12:01.96,Dialogue,touka,0000,0000,0000,,Para cumprir o desejo pelo qual\Nnos tornamos Garotas Mágicas.
+Dialogue: 0,0:12:04.62,0:12:10.50,Dialogue,touka,0000,0000,0000,,Até agora, crueldade e tragédia caíram\Nsobre as Garotas Mágicas.
+Dialogue: 0,0:12:11.32,0:12:13.00,Dialogue,nemu,0000,0000,0000,,Mas nós, Magius,
+Dialogue: 0,0:12:13.36,0:12:17.00,Dialogue,nemu,0000,0000,0000,,vamos libertá-las dessa história.
+Dialogue: 0,0:12:18.00,0:12:26.76,Black Signs 2,,0000,0000,0000,,{\c&H60F29B&\3c&HA29A6C&}Voz
+Dialogue: 0,0:12:19.78,0:12:23.86,Dialogue,nemu,0000,0000,0000,,Magius vai acordar a Eva Embrionária
+Dialogue: 0,0:12:24.10,0:12:26.76,Dialogue,nemu,0000,0000,0000,,e aperfeiçoar o sistema Doppel.
+Dialogue: 0,0:12:27.70,0:12:30.98,Dialogue,nemu,0000,0000,0000,,Se nos espalharmos por todo o mundo
+Dialogue: 0,0:12:31.26,0:12:35.27,Dialogue,nemu,0000,0000,0000,,um sistema onde Garotas Mágicas\Nmantêm suas almas,
+Dialogue: 0,0:12:35.74,0:12:41.40,Dialogue,nemu,0000,0000,0000,,nunca mais terão que temer se tornarem bruxas.
+Dialogue: 0,0:12:41.98,0:12:44.30,Dialogue,touka,0000,0000,0000,,Meninas que vão acabar desaparecendo,
+Dialogue: 0,0:12:44.30,0:12:48.66,Dialogue,touka,0000,0000,0000,,gritem conosco com a raiva de terem nascido.
+Dialogue: 0,0:12:51.88,0:12:55.04,Dialogue,touka,0000,0000,0000,,Nosso sacrifício não será em vão.
+Dialogue: 0,0:12:55.60,0:12:58.80,Dialogue,touka,0000,0000,0000,,Sim, somos um sacrifício com orgulho e propósito!
+Dialogue: 0,0:13:21.32,0:13:22.19,Dialogue,yachiyo,0000,0000,0000,,Quê?
+Dialogue: 0,0:13:24.24,0:13:27.44,Dialogue,mifuyu,0000,0000,0000,,Está nublando o meu coração.
+Dialogue: 0,0:13:28.80,0:13:30.95,Dialogue,felicia,0000,0000,0000,,O que há comigo?
+Dialogue: 0,0:13:31.42,0:13:33.45,Dialogue,sana,0000,0000,0000,,Me sinto estranha...
+Dialogue: 0,0:13:33.74,0:13:36.10,Dialogue,momoko,0000,0000,0000,,O que aconteceu? Garotas?
+Dialogue: 0,0:13:37.22,0:13:41.48,Dialogue,tsuruno,0000,0000,0000,,Não é suficiente. Para mim, nada é suficiente.
+Dialogue: 0,0:14:06.10,0:14:09.22,Dialogue,mitama,0000,0000,0000,,Aguente! Se o seu Doppel sair,\Nvocê perderá o controle.
+Dialogue: 0,0:14:09.56,0:14:11.40,Dialogue,rena,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:14:11.86,0:14:14.20,Dialogue,mitama,0000,0000,0000,,A Eva Embrionária foi ativada.
+Dialogue: 0,0:14:14.64,0:14:19.21,Dialogue,rena,0000,0000,0000,,Aquilo que disseram que\Nsalvaria as Garotas Mágicas?
+Dialogue: 0,0:14:19.56,0:14:22.94,Dialogue,mitama,0000,0000,0000,,O sistema explodiu na ativação.
+Dialogue: 0,0:14:23.36,0:14:26.68,Dialogue,mitama,0000,0000,0000,,Ela perdeu o controle por\Nnão ter bruxas suficientes.
+Dialogue: 0,0:14:27.00,0:14:30.82,Dialogue,mitama,0000,0000,0000,,Isso afetará mais as Garotas Mágicas\Nmais jovens, com almas instáveis.
+Dialogue: 0,0:14:31.62,0:14:34.28,Dialogue,mitama,0000,0000,0000,,E elas também.
+Dialogue: 0,0:14:38.22,0:14:39.06,Dialogue,rena,0000,0000,0000,,Kaede!
+Dialogue: 0,0:14:39.40,0:14:40.30,Dialogue,mitama,0000,0000,0000,,Rena!
+Dialogue: 0,0:14:50.40,0:14:53.30,Dialogue,felicia,0000,0000,0000,,Não iria suportar ver a Yachiyo desaparecer.
+Dialogue: 0,0:14:53.50,0:14:54.82,Dialogue,felicia,0000,0000,0000,,Vamos enterrar tudo.
+Dialogue: 0,0:14:56.18,0:14:57.08,Dialogue,yachiyo,0000,0000,0000,,Felicia!
+Dialogue: 0,0:14:57.78,0:15:01.32,Dialogue,sana,0000,0000,0000,,Por que eu ainda estava viva?
+Dialogue: 0,0:15:03.44,0:15:05.59,Dialogue,tsukuyo,0000,0000,0000,,Somos todas uma só.
+Dialogue: 0,0:15:06.00,0:15:08.59,Dialogue,tsukasa,0000,0000,0000,,Não precisamos de mais nada.
+Dialogue: 0,0:15:11.58,0:15:13.02,Dialogue,yachiyo,0000,0000,0000,,O que está acontecendo?
+Dialogue: 0,0:15:13.92,0:15:17.10,Dialogue,mifuyu,0000,0000,0000,,Os Doppel estão tomando suas personalidades.
+Dialogue: 0,0:15:18.54,0:15:20.64,Dialogue,momoko,0000,0000,0000,,Como aconteceu com a Kaede...
+Dialogue: 0,0:15:24.12,0:15:25.56,Dialogue,yachiyo,0000,0000,0000,,O que é dessa vez?
+Dialogue: 0,0:15:29.10,0:15:34.58,Dialogue,nemu,0000,0000,0000,,Parece que a Noite de Walpurgis\Nvai para Mitakihara novamente.
+Dialogue: 0,0:15:35.36,0:15:37.08,Dialogue,nemu,0000,0000,0000,,Mas ainda temos tempo.
+Dialogue: 0,0:15:37.38,0:15:40.44,Dialogue,touka,0000,0000,0000,,Nós vamos persegui-la.
+Dialogue: 0,0:15:40.68,0:15:43.60,Dialogue,touka,0000,0000,0000,,Vamos pegá-la e fundi-la \Ncom essa Eva Embrionária.
+Dialogue: 0,0:15:49.84,0:15:51.34,Dialogue,yachiyo,0000,0000,0000,,Eva Embrionária...
+Dialogue: 0,0:15:51.92,0:15:53.10,Dialogue,mifuyu,0000,0000,0000,,Precisamos detê-la.
+Dialogue: 0,0:15:54.48,0:15:55.56,Dialogue,yachiyo,0000,0000,0000,,Mas...
+Dialogue: 0,0:16:02.68,0:16:05.68,Dialogue,mifuyu,0000,0000,0000,,Está tudo bem. \NEu me encarrego para que todas...
+Dialogue: 0,0:16:05.92,0:16:07.82,Dialogue,mifuyu,0000,0000,0000,,Vão atrás de Touka e Nemu.
+Dialogue: 0,0:16:08.42,0:16:09.58,Dialogue,yachiyo,0000,0000,0000,,Mifuyu...
+Dialogue: 0,0:16:10.10,0:16:12.26,Dialogue,mifuyu,0000,0000,0000,,Eu vou protegê-las.
+Dialogue: 0,0:16:13.22,0:16:16.34,Dialogue,mifuyu,0000,0000,0000,,Você não consegue confiá-las\Na alguém tão fraca quanto eu?
+Dialogue: 0,0:16:19.46,0:16:20.84,Dialogue,yachiyo,0000,0000,0000,,Quero que me prometa.
+Dialogue: 0,0:16:21.94,0:16:25.58,Dialogue,yachiyo,0000,0000,0000,,Prometa-me que vai se defender e a elas.
+Dialogue: 0,0:16:25.86,0:16:27.66,Dialogue,yachiyo,0000,0000,0000,,Por favor, Mifuyu.
+Dialogue: 0,0:17:13.16,0:17:15.12,Dialogue,momoko,0000,0000,0000,,Vamos nos Conectar, Mifuyu!
+Dialogue: 0,0:17:15.98,0:17:16.98,Dialogue,mifuyu,0000,0000,0000,,Não!
+Dialogue: 0,0:17:17.48,0:17:20.14,Dialogue,mifuyu,0000,0000,0000,,Vai acabar se machucando! Afaste-se!
+Dialogue: 0,0:17:20.60,0:17:23.64,Dialogue,momoko,0000,0000,0000,,Não! Eu nunca farei isso!
+Dialogue: 0,0:17:24.12,0:17:25.40,Dialogue,mifuyu,0000,0000,0000,,Momoko...
+Dialogue: 0,0:17:25.94,0:17:28.40,Dialogue,momoko,0000,0000,0000,,Eu vou te ajudar, Mifuyu!
+Dialogue: 0,0:17:30.88,0:17:34.18,Dialogue,momoko,0000,0000,0000,,Não me faça fechar os olhos novamente.
+Dialogue: 0,0:17:37.48,0:17:39.64,Dialogue,momoko,0000,0000,0000,,Como podemos salvá-las?
+Dialogue: 0,0:17:40.34,0:17:44.08,Dialogue,mifuyu,0000,0000,0000,,Os Doppel são a própria escuridão\Ndo coração das Garotas Mágicas.
+Dialogue: 0,0:17:44.74,0:17:48.90,Dialogue,mifuyu,0000,0000,0000,,Ele se funde com a alma\Ne tenta assumir o controle.
+Dialogue: 0,0:17:51.24,0:17:54.67,Dialogue,mifuyu,0000,0000,0000,,Temos que extraí-lo de suas almas diretamente.
+Dialogue: 0,0:18:00.64,0:18:03.93,Dialogue,momoko,0000,0000,0000,,Me parece bom. Deixe-me ajudá-la\Ncomo eu costumava fazer.
+Dialogue: 0,0:18:05.10,0:18:05.96,Dialogue,mifuyu,0000,0000,0000,,Está bem.
+Dialogue: 0,0:18:08.04,0:18:10.27,Dialogue,mifuyu,0000,0000,0000,,Vamos, Momoko.
+Dialogue: 0,0:18:34.16,0:18:36.72,Dialogue,mitama,0000,0000,0000,,O que vocês estão fazendo aqui?
+Dialogue: 0,0:18:36.92,0:18:39.34,Dialogue,mifuyu,0000,0000,0000,,Vamos te ajudar.
+Dialogue: 0,0:18:40.18,0:18:43.36,Dialogue,mifuyu,0000,0000,0000,,Eu tinha vergonha da minha própria fraqueza.
+Dialogue: 0,0:18:43.94,0:18:46.22,Dialogue,mifuyu,0000,0000,0000,,Mas o fato de sermos fracas
+Dialogue: 0,0:18:46.54,0:18:49.84,Dialogue,mifuyu,0000,0000,0000,,nos permite entender outros\Ncorações corrompidos.
+Dialogue: 0,0:18:50.12,0:18:54.78,Dialogue,mifuyu,0000,0000,0000,,Ser fraca nos faz entender nossas\Npreocupações e ajudar umas às outras.
+Dialogue: 0,0:18:54.78,0:18:56.00,Dialogue,mifuyu,0000,0000,0000,,Mas isso...
+Dialogue: 0,0:18:56.00,0:18:58.72,Dialogue,mitama,0000,0000,0000,,Não! Se você carrega sua escuridão,
+Dialogue: 0,0:18:58.72,0:19:00.80,Dialogue,mitama,0000,0000,0000,,seu coração também vai quebrar.
+Dialogue: 0,0:19:01.34,0:19:03.62,Dialogue,mifuyu,0000,0000,0000,,Eu estava assustada.
+Dialogue: 0,0:19:03.62,0:19:06.62,Dialogue,mifuyu,0000,0000,0000,,Por isso não fiz antes. Sinto muito.
+Dialogue: 0,0:19:13.20,0:19:17.18,Dialogue,momoko,0000,0000,0000,,Sinto muito, Tsuruno.\NEu deveria ter enfrentado isso antes.
+Dialogue: 0,0:19:27.08,0:19:28.88,Dialogue,mitama,0000,0000,0000,,Não tenho escolha, né?
+Dialogue: 0,0:19:29.36,0:19:32.40,Dialogue,mitama,0000,0000,0000,,É uma vergonha se eu também ficar fugindo.
+Dialogue: 0,0:19:32.74,0:19:35.98,Dialogue,momoko/mifuyu,0000,0000,0000,,— Não.\N— Você tem que fugir, Mitama.
+Dialogue: 0,0:19:39.86,0:19:42.49,Dialogue,mitama,0000,0000,0000,,Vão me deixar de fora?
+Dialogue: 0,0:19:42.74,0:19:45.58,Dialogue,mifuyu,0000,0000,0000,,Continue correndo e fique a salvo.
+Dialogue: 0,0:19:46.00,0:19:48.75,Dialogue,mifuyu,0000,0000,0000,,Cuide de tudo quando terminarmos.
+Dialogue: 0,0:19:49.02,0:19:51.75,Dialogue,momoko,0000,0000,0000,,Vão precisar de uma ajudinha.
+Dialogue: 0,0:19:56.06,0:19:58.00,Dialogue,mitama,0000,0000,0000,,Você é mesmo egoísta, Momoko.
+Dialogue: 0,0:19:58.68,0:20:01.18,Dialogue,mitama,0000,0000,0000,,Você não prometeu cuidar de mim?
+Dialogue: 0,0:20:02.56,0:20:07.26,Dialogue,momoko,0000,0000,0000,,Mitama, lamento que se torne uma mentira, mas...
+Dialogue: 0,0:20:07.96,0:20:09.42,Dialogue,mitama,0000,0000,0000,,Eu sei.
+Dialogue: 0,0:20:24.28,0:20:27.68,Dialogue,rena,0000,0000,0000,,Kaede, me responda. \NVocê não me ouve?
+Dialogue: 0,0:20:40.00,0:20:41.97,Dialogue,momoko,0000,0000,0000,,Vamos voar, Rena.
+Dialogue: 0,0:20:42.34,0:20:43.46,Dialogue,rena,0000,0000,0000,,Sim.
+Dialogue: 0,0:20:51.02,0:20:55.72,Dialogue,momoko,0000,0000,0000,,Você estava com medo de\N perder sua casa, né, Kaede?
+Dialogue: 0,0:20:58.36,0:21:01.00,Dialogue,kaede,0000,0000,0000,,Sim. Isso me assusta.
+Dialogue: 0,0:21:01.60,0:21:04.98,Dialogue,rena,0000,0000,0000,,Não importa o que aconteça,\Nvocê sempre será minha casa, Kaede.
+Dialogue: 0,0:21:05.34,0:21:09.49,Dialogue,rena,0000,0000,0000,,Diga-me que eu também sou sua,\Nnão importa o que aconteça.
+Dialogue: 0,0:21:09.92,0:21:14.00,Dialogue,kaede,0000,0000,0000,,Rena, Momoko, eu...
+Dialogue: 0,0:21:14.28,0:21:17.50,Dialogue,momoko,0000,0000,0000,,Desculpe não ter entendido você até agora.
+Dialogue: 0,0:21:26.14,0:21:27.76,Dialogue,tsukuyo,0000,0000,0000,,Azusa?
+Dialogue: 0,0:21:28.00,0:21:30.26,Dialogue,tsukasa,0000,0000,0000,,Onde estamos?
+Dialogue: 0,0:21:50.08,0:21:53.91,Dialogue,mifuyu,0000,0000,0000,,Tenho medo. Isso dói. Estou triste.
+Dialogue: 0,0:21:54.44,0:21:56.98,Dialogue,momoko,0000,0000,0000,,E me sinto sozinha. É muito difícil.
+Dialogue: 0,0:21:57.96,0:22:00.60,Dialogue,momoko,0000,0000,0000,,Mas não estou mais sozinha.
+Dialogue: 0,0:22:01.24,0:22:05.94,Dialogue,mifuyu,0000,0000,0000,,Embora não estejamos bem,\Npoderíamos estar piores.
+Dialogue: 0,0:22:06.38,0:22:09.43,Dialogue,momoko,0000,0000,0000,,Então, vamos ser amigas.
+Dialogue: 0,0:22:09.88,0:22:11.92,Dialogue,momoko/mifuyu,0000,0000,0000,,Lutaremos juntas.
+Dialogue: 0,0:22:29.28,0:22:31.95,Dialogue,tsuruno,0000,0000,0000,,O que eu estava fazendo?
+Dialogue: 0,0:22:32.36,0:22:35.70,Dialogue,felicia,0000,0000,0000,,Vi a Mifuyu em um sonho.
+Dialogue: 0,0:22:36.10,0:22:38.96,Dialogue,sana,0000,0000,0000,,E era algo muito agradável.
+Dialogue: 0,0:22:40.06,0:22:43.21,Dialogue,tsuruno,0000,0000,0000,,Cadê a Mifuyu? E a Momoko e as outras?!
+Dialogue: 0,0:22:59.16,0:23:00.30,Dialogue,mitama,0000,0000,0000,,Momoko...
+Dialogue: 0,0:23:01.76,0:23:07.26,Dialogue,mitama,0000,0000,0000,,As Garotas Mágicas devem continuar\Na viver passando por tanto sofrimento?
+Dialogue: 0,0:23:31.50,0:23:35.00,Título ep 2,,0000,0000,0000,,{\c&HFFFFFF&}Meninas que acabarão desaparecendo

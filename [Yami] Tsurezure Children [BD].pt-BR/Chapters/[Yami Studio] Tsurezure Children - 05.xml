@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionUID>4185844688849913219</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>694347442004589970</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Abertura</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:01.061000000</ChapterTimeStart>
+      <ChapterUID>345753963488102562</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Re:</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:04:50.749000000</ChapterTimeStart>
+      <ChapterUID>1959811932538463141</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Amigos de Infância</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:08:10.782000000</ChapterTimeStart>
+      <ChapterUID>2443737007845463998</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Vendo Você de Longe</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:11:26.060000000</ChapterTimeStart>
+      <ChapterUID>10047006586598946480</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Epílogo</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:12:25.995000000</ChapterTimeStart>
+      <ChapterUID>5166714247216596878</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

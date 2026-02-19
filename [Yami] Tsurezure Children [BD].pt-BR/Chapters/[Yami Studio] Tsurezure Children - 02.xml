@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>18244350892963885922</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Abertura</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>5019293256052619096</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:01.019000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>A Namorada do Meu Irmão</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>14449465251341859279</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:03:53.733000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Primavera</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>13765961600100775480</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:52.871000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Contato</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>7471297783497821935</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:10:23.915000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Chuva</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>14533851630171057321</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:13:26.014000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>11386457027019538672</ChapterUID>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

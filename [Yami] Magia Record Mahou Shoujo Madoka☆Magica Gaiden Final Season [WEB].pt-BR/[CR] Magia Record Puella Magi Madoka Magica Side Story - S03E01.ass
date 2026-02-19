@@ -1,0 +1,346 @@
+﻿[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Open Sans Semibold,54,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0000,0000,0042,1
+Style: Texto,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0010,1
+Style: Italics,Trebuchet MS,22,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Titulo,Trebuchet MS,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0031,1
+Style: Titulo2,Times New Roman,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0014,1
+Style: Introtexto,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0010,0010,0010,1
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Dialogue,Trebuchet MS,22,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: conversas pessoais2,Arial,18,&H001422C2,&H00002EFF,&H001CB3BA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0038,1
+Style: White Signs,Arial,18,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,1
+Style: Black Signs 2,Arial,19,&H00000000,&H00002EFF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0047,1
+Style: nova rotina,Arial,18,&H00FFFFFF,&H000019FF,&H0073A2CD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0150,0086,1
+Style: amigos se ajudam,Arial,16,&H00658BAE,&H000019FF,&H00EAF5F8,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0401,0041,0087,1
+Style: coração,Trebuchet MS,22,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0450,0207,1
+Style: Kuroe,Trebuchet MS,16,&H00EDEFEE,&H000019FF,&H00181B12,&H0030382E,-1,0,0,0,100,100,0,-25,1,1,1,2,0060,0040,0270,1
+Style: Chamando,Trebuchet MS,17,&H00EDEFEE,&H000019FF,&H00181B12,&H0030382E,-1,0,0,0,100,100,0,-25,1,1,1,2,0050,0065,0240,1
+Style: Aceitar,Trebuchet MS,16,&H00FFF99C,&H000019FF,&H00181B12,&H0030382E,-1,0,0,0,100,100,0,-25,1,1,0,2,0040,0175,0205,1
+Style: Recusar,Trebuchet MS,16,&H00DBD8FF,&H000019FF,&H00181B12,&H0030382E,-1,0,0,0,100,100,0,-25,1,1,0,2,0040,0040,0175,1
+Style: Amigos,Arial,23,&H00C8EAF7,&H000019FF,&H00254872,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0107,1
+Style: Conversas pessoais,Arial,18,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,1
+Style: mantenha,Arial,23,&H00313948,&H000019FF,&H00E1F6FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0123,1
+Style: conversas pessoais2 - Copy,Arial,18,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0038,1
+Style: Título,Times New Roman,18,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0123,1
+Style: Título 2,Times New Roman,5,&H00FFFFFF,&H00003FFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0060,1
+Style: Vá para kamihama,Trebuchet MS,22,&H00292C55,&H000019FF,&H00E6EEF4,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: não perca,Trebuchet MS,22,&H005ADDE3,&H000019FF,&H00E059EE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0055,1
+Style: Song Subtitles,Trebuchet MS,22,&H00FFFFFF,&H000C11BA,&H10BE4095,&HC0000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: ShowTitle,Comic Sans MS,8,&H002A57DD,&H00000000,&H0000D4FF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0004,1
+Style: EpTitle,Verdana,5,&H00FFFFFF,&H00003FFF,&H00000000,&H00000000,-1,-1,0,0,90,100,0,0,1,0,0,8,0010,0010,0004,1
+Style: Black Signs,Arial,9,&H00000000,&H00003FFF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0005,0005,0009,1
+Style: Flashback,Trebuchet MS,11,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,1,0,2,0003,0003,0009,1
+Style: Título ep 2,Times New Roman,21,&H00B49ECA,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0228,1
+Style: WhiteSigns,Arial,10,&H00FFFFFF,&H00003FFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0005,0005,0003,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:11.60,0:00:16.42,Italics,nemu,0000,0000,0000,,Adormeci enquanto segurava\Numa joia bem importante.
+Dialogue: 0,0:00:17.92,0:00:21.52,Italics,nemu,0000,0000,0000,,Esse dia era quente, e o vento estava agradável.
+Dialogue: 0,0:00:21.52,0:00:24.25,Black Signs 2,,0000,0000,0000,,{\c&H8A928F&}Centro Médico Satomi
+Dialogue: 0,0:00:22.46,0:00:27.04,Italics,nemu,0000,0000,0000,,Eu disse que assim não iria perdê-la.
+Dialogue: 0,0:00:29.96,0:00:33.94,Italics,nemu,0000,0000,0000,,Abrindo os olhos, repreendi\Naquelas mãos honestas.
+Dialogue: 0,0:00:35.78,0:00:38.06,Italics,nemu,0000,0000,0000,,A joia desapareceu.
+Dialogue: 0,0:00:38.64,0:00:42.43,Black Signs 2,,0000,0000,0000,,{\fs17\c&HA9A9B4&\pos(499,39)}Tamaki Ui\NSatomi Touka\NHiiragi Nemu
+Dialogue: 0,0:00:39.52,0:00:41.90,Italics,nemu,0000,0000,0000,,A única coisa que me resta agora...
+Dialogue: 0,0:00:44.78,0:00:48.92,Italics,nemu,0000,0000,0000,,são apenas lembranças da ametista.
+Dialogue: 0,0:00:55.70,0:00:57.95,Black Signs 2,,0000,0000,0000,,{\fs15\3c&HD7C442&\pos(317,198)}Sempre juntas
+Dialogue: 0,0:00:59.56,0:01:02.50,Dialogue,touka,0000,0000,0000,,Se importa tanto assim com o passado, Ui?
+Dialogue: 0,0:01:05.71,0:01:08.21,Black Signs 2,,0000,0000,0000,,{\fs14\c&H303233&\pos(138.333,11.333)}O que quero ter\Nde lembrança
+Dialogue: 0,0:01:05.71,0:01:08.21,Black Signs 2,,0000,0000,0000,,{\fs14\c&H303233&\pos(85.667,136.333)}Tempo
+Dialogue: 0,0:01:05.71,0:01:08.21,Black Signs 2,,0000,0000,0000,,{\fs14\c&H303233&\pos(350.667,30.667)}Coisas que quero escrever
+Dialogue: 0,0:01:05.71,0:01:08.21,Black Signs 2,,0000,0000,0000,,{\pos(480,182.667)\fs14\c&H303233&}Coisas que quero saber
+Dialogue: 0,0:01:06.36,0:01:15.32,Italics,nemu,0000,0000,0000,,Ui disse que lamentaria esquecer\Naté as lembranças mais bobas.
+Dialogue: 0,0:01:08.20,0:01:10.96,Black Signs 2,,0000,0000,0000,,{\fs15\3c&H4E77C1&\pos(315,35)}Nemu 11 anos\NTouka 11 anos\N\N\N\N\N\N\N\N\N\N\N\NUi 11 anos\NTouka, Nemu 10 anos\N\N\N\N\N\NUi 10 anos\NTouka 9 anos\NNemu 9 anos\N\NUi 9 anos
+Dialogue: 0,0:01:24.72,0:01:26.82,Italics,nemu,0000,0000,0000,,Naquela época,
+Dialogue: 0,0:01:27.12,0:01:30.64,Italics,nemu,0000,0000,0000,,este quarto de hospital era tudo o que tínhamos.
+Dialogue: 0,0:01:31.78,0:01:37.38,Italics,nemu,0000,0000,0000,,Iroha era a única coisa que nos\Nligava ao mundo exterior.
+Dialogue: 0,0:01:43.42,0:01:47.18,Italics,nemu,0000,0000,0000,,Era a única coisa de que precisávamos.
+Dialogue: 0,0:01:57.64,0:01:59.43,Dialogue,kyubey,0000,0000,0000,,Muito prazer, Tamaki Iroha.
+Dialogue: 0,0:02:00.68,0:02:03.10,Dialogue,kyubey,0000,0000,0000,,Você tem um desejo que quer realizar?
+Dialogue: 0,0:02:06.34,0:02:07.50,Dialogue,iroha,0000,0000,0000,,Um desejo?
+Dialogue: 0,0:02:10.14,0:02:13.58,Dialogue,ui,0000,0000,0000,,Espero que possamos ir\Nao parque de diversões um dia.
+Dialogue: 0,0:02:14.02,0:02:18.56,Dialogue,touka,0000,0000,0000,,Cancelaram a construção\Ndo parque do distrito de Daito.
+Dialogue: 0,0:02:16.92,0:02:18.57,Black Signs 2,,0000,0000,0000,,{\pos(284,45)}[Distrito de Daito] Construção de parque de diversões cancelada
+Dialogue: 0,0:02:18.92,0:02:22.56,Dialogue,ui,0000,0000,0000,,Então lá será o rumor do parque\Nde diversões dos anjos.
+Dialogue: 0,0:02:22.76,0:02:25.30,Dialogue,ui,0000,0000,0000,,Todo mundo que vai lá vai sorrir.
+Dialogue: 0,0:02:25.62,0:02:29.08,Dialogue,nemu,0000,0000,0000,,Vamos chamá-lo de rumor de Chelaton Land.
+Dialogue: 0,0:02:27.58,0:02:29.08,Black Signs 2,,0000,0000,0000,,{\fs24\c&H3F4241&\3c&HEDEFEF&\fnComic Sans MS}O rumor de Chelation Land
+Dialogue: 0,0:02:29.46,0:02:33.34,Dialogue,touka,0000,0000,0000,,Fizemos uma peça com a história que Nemu pensou.
+Dialogue: 0,0:02:33.66,0:02:35.59,Dialogue,ui,0000,0000,0000,,A água da sorte da coruja!
+Dialogue: 0,0:02:36.06,0:02:38.59,Dialogue,nemu,0000,0000,0000,,Também brigamos em muitos lugares.
+Dialogue: 0,0:02:38.80,0:02:40.72,Dialogue,ui,0000,0000,0000,,O rumor das escadas da ruptura!
+Dialogue: 0,0:02:41.60,0:02:43.72,Dialogue,iroha,0000,0000,0000,,O que estão fazendo hoje?
+Dialogue: 0,0:02:43.94,0:02:47.00,Dialogue,ui,0000,0000,0000,,Iroha! Estamos inventando rumores.
+Dialogue: 0,0:02:47.16,0:02:49.48,Dialogue,ui,0000,0000,0000,,Vamos espalhar por toda a Kamihama!
+Dialogue: 0,0:02:49.48,0:02:51.34,Black Signs 2,,0000,0000,0000,,{\fs15\pos(378,55)}Quero testar o rumor das emas do santuário\Nde invocação, mas não sei onde é.
+Dialogue: 0,0:02:49.48,0:02:51.34,Black Signs 2,,0000,0000,0000,,{\fs15\pos(410,158)}Um amigo encontrou alguém de bicicleta vendendo água. Ele está desconfiado, mas diz que a água estava boa.
+Dialogue: 0,0:02:49.48,0:02:51.34,Black Signs 2,,0000,0000,0000,,{\fs15\pos(386,261)}Alguém sabe como chegar ao fim da solidão?
+Dialogue: 0,0:02:49.88,0:02:53.11,Dialogue,nemu,0000,0000,0000,,Se os rumores estiverem por\Ntodos os lados da cidade...
+Dialogue: 0,0:02:53.46,0:02:55.34,Dialogue,touka,0000,0000,0000,,Mesmo que morramos...
+Dialogue: 0,0:02:55.52,0:02:58.99,Dialogue,ui,0000,0000,0000,,Você se lembrará de nós quando os ouvir.
+Dialogue: 0,0:03:06.06,0:03:08.94,Dialogue,iroha,0000,0000,0000,,Posso inventar um também?
+Dialogue: 0,0:03:09.24,0:03:10.25,Dialogue,ui,0000,0000,0000,,Pode!
+Dialogue: 0,0:03:11.46,0:03:14.88,Dialogue,iroha,0000,0000,0000,,Em algum lugar da cidade, há uma cerejeira seca.
+Dialogue: 0,0:03:15.22,0:03:19.48,Dialogue,iroha,0000,0000,0000,,Um dia, três meninas vão deixar o hospital
+Dialogue: 0,0:03:19.68,0:03:23.08,Dialogue,iroha,0000,0000,0000,,e elas vão conhecer a garota que as visitou.
+Dialogue: 0,0:03:23.48,0:03:26.78,Dialogue,iroha,0000,0000,0000,,Quando isso acontecer,\Na cerejeira florescerá novamente.
+Dialogue: 0,0:03:27.04,0:03:29.10,Dialogue,ui,0000,0000,0000,,Não vai mais secar!
+Dialogue: 0,0:03:29.10,0:03:31.08,Dialogue,touka,0000,0000,0000,,Vamos todas fazer uma promessa!
+Dialogue: 0,0:03:33.78,0:03:38.52,Dialogue,nemu,0000,0000,0000,,Não importa quantos anos se passem,\Nvamos nos reencontrar sob a cerejeira.
+Dialogue: 0,0:03:39.42,0:03:41.50,Dialogue,iroha,0000,0000,0000,,E o nome dessa cerejeira é...
+Dialogue: 0,0:03:42.38,0:03:44.42,Dialogue,ui,0000,0000,0000,,É o rumor da Cerejeira Eterna!
+Dialogue: 0,0:03:58.70,0:04:01.68,Dialogue,kyubey,0000,0000,0000,,Já pensou no que eu te disse?
+Dialogue: 0,0:04:03.48,0:04:05.84,Dialogue,iroha,0000,0000,0000,,Parece um conto de fadas.
+Dialogue: 0,0:04:06.54,0:04:10.42,Dialogue,kyubey,0000,0000,0000,,Os seres humanos só acreditam no que podem ver.
+Dialogue: 0,0:04:21.18,0:04:22.18,Dialogue,iroha,0000,0000,0000,,Ui!
+Dialogue: 0,0:04:25.34,0:04:26.24,Dialogue,iroha,0000,0000,0000,,Ui?
+Dialogue: 0,0:04:34.06,0:04:35.72,Dialogue,ui,0000,0000,0000,,Iroha.
+Dialogue: 0,0:04:36.50,0:04:38.76,Dialogue,ui,0000,0000,0000,,Obrigada por vir.
+Dialogue: 0,0:04:41.66,0:04:44.30,Dialogue,iroha,0000,0000,0000,,É porque sou sua irmã mais velha.
+Dialogue: 0,0:04:44.68,0:04:46.98,Dialogue,iroha,0000,0000,0000,,Eu irei correndo, onde você estiver.
+Dialogue: 0,0:04:48.86,0:04:51.38,Dialogue,nemu,0000,0000,0000,,Ainda bem que não era nada grave.
+Dialogue: 0,0:04:51.38,0:04:53.70,Dialogue,touka,0000,0000,0000,,Eu fiquei muito preocupada!
+Dialogue: 0,0:04:53.92,0:04:59.56,Dialogue,ui,0000,0000,0000,,Mas não poderá comer a comida\Nque ela traz até você melhorar.
+Dialogue: 0,0:05:00.44,0:05:04.08,Dialogue,iroha,0000,0000,0000,,Sem problema!\N Você logo vai conseguir comer!
+Dialogue: 0,0:05:05.36,0:05:07.86,Black Signs 2,,0000,0000,0000,,{\fs16\pos(422,44)\c&H9B9B9B&}Sala de Exames
+Dialogue: 0,0:05:38.54,0:05:39.74,Dialogue,ui,0000,0000,0000,,Iroha!
+Dialogue: 0,0:05:40.36,0:05:43.00,Dialogue,ui,0000,0000,0000,,Ouça! Parece que vou poder receber alta!
+Dialogue: 0,0:05:46.68,0:05:49.76,Dialogue,nemu,0000,0000,0000,,O médico não podia acreditar.
+Dialogue: 0,0:05:49.94,0:05:52.88,Dialogue,touka,0000,0000,0000,,Ele disse que parecia mágica.
+Dialogue: 0,0:05:53.06,0:05:55.88,Dialogue,ui,0000,0000,0000,,Milagres existem, Iroha!
+Dialogue: 0,0:06:12.26,0:06:13.82,Black Signs 2,,0000,0000,0000,,{\c&H906EEB&\3c&HE7F0F6&\pos(246,122)}Desculpa. Não posso ir hoje.
+Dialogue: 0,0:06:13.82,0:06:15.02,Black Signs 2,,0000,0000,0000,,{\c&HF0A671&\pos(452,23)}Desculpa...
+Dialogue: 0,0:06:15.02,0:06:17.02,Black Signs 2,,0000,0000,0000,,{\fs15\c&H3C3B24&\3c&HD4D1BF&\pos(181,37)}Visita ao hospital, visita ao hospital...
+Dialogue: 0,0:06:17.50,0:06:19.02,Dialogue,touka,0000,0000,0000,,De novo?
+Dialogue: 0,0:06:19.88,0:06:20.98,Dialogue,ui,0000,0000,0000,,Sim...
+Dialogue: 0,0:06:21.16,0:06:25.14,Dialogue,ui,0000,0000,0000,,Minha irmã anda estranha ultimamente, não é?
+Dialogue: 0,0:06:26.14,0:06:30.70,Dialogue,nemu,0000,0000,0000,,Ela vem cada vez menos, e parece mais cansada.
+Dialogue: 0,0:06:30.92,0:06:34.80,Dialogue,touka,0000,0000,0000,,É como se ela ficasse doente no seu lugar.
+Dialogue: 0,0:06:38.04,0:06:40.04,Black Signs 2,,0000,0000,0000,,{\fs15\c&H3C3B24&\3c&HD4D1BF&\pos(181,37)}Visita ao hospital, visita ao hospital...
+Dialogue: 0,0:06:42.62,0:06:44.80,Dialogue,iroha,0000,0000,0000,,Acertei com essa cor.
+Dialogue: 0,0:06:45.24,0:06:46.82,Dialogue,iroha,0000,0000,0000,,Combinou com você.
+Dialogue: 0,0:06:47.80,0:06:50.30,Dialogue,ui,0000,0000,0000,,Pareço até adulta.
+Dialogue: 0,0:06:56.32,0:06:57.78,Dialogue,ui,0000,0000,0000,,Obrigada, Iro...
+Dialogue: 0,0:06:57.78,0:06:59.69,Dialogue,iroha,0000,0000,0000,,Desculpa, lembrei de uma coisa pra fazer!
+Dialogue: 0,0:07:17.45,0:07:21.46,Black Signs 2,,0000,0000,0000,,{\c&HD0C5A9&\3c&HF4F6ED&}Necrotério
+Dialogue: 0,0:07:18.54,0:07:20.96,Dialogue,ui,0000,0000,0000,,Precisava vir aqui?
+Dialogue: 0,0:07:29.70,0:07:31.16,Dialogue,touka,0000,0000,0000,,Não pode ser...
+Dialogue: 0,0:07:31.48,0:07:33.10,Dialogue,nemu,0000,0000,0000,,Nem acredito.
+Dialogue: 0,0:07:33.28,0:07:34.56,Dialogue,ui,0000,0000,0000,,Cadê a Iroha?
+Dialogue: 0,0:07:48.48,0:07:49.58,Dialogue,touka,0000,0000,0000,,Iroha!
+Dialogue: 0,0:07:49.58,0:07:51.15,Dialogue,ui,0000,0000,0000,,O que faremos? Minha irmã está...
+Dialogue: 0,0:07:51.40,0:07:53.22,Dialogue,kyubey,0000,0000,0000,,Querem salvá-la?
+Dialogue: 0,0:07:54.44,0:07:58.96,Dialogue,kyubey,0000,0000,0000,,Se fizerem um pacto comigo,\Npoderão ajudar Tamaki Iroha.
+Dialogue: 0,0:07:59.66,0:08:00.94,Dialogue,ui,0000,0000,0000,,Um pacto?
+Dialogue: 0,0:08:30.96,0:08:33.66,Dialogue,touka,0000,0000,0000,,Isso é possível?
+Dialogue: 0,0:08:33.86,0:08:35.38,Dialogue,kyubey,0000,0000,0000,,É o que estão vendo.
+Dialogue: 0,0:08:35.78,0:08:37.70,Dialogue,nemu,0000,0000,0000,,Um animal falante...
+Dialogue: 0,0:08:37.92,0:08:40.92,Dialogue,ui,0000,0000,0000,,Por que a Iroha está lutando\Ncontra esses monstros?
+Dialogue: 0,0:08:41.50,0:08:44.79,Dialogue,kyubey,0000,0000,0000,,Porque Tamaki Iroha é uma garota mágica.
+Dialogue: 0,0:08:45.52,0:08:47.24,Dialogue,ui,0000,0000,0000,,Uma garota mágica?
+Dialogue: 0,0:08:53.84,0:08:56.44,Dialogue,nemu,0000,0000,0000,,Se Kyubey estava dizendo a verdade,
+Dialogue: 0,0:08:56.76,0:09:01.62,Dialogue,nemu,0000,0000,0000,,Iroha se tornou uma \Ngarota mágica para curar Ui.
+Dialogue: 0,0:09:02.20,0:09:06.90,Dialogue,ui,0000,0000,0000,,Não quero que minha irmã sofra por minha causa.
+Dialogue: 0,0:09:07.76,0:09:10.26,Dialogue,ui,0000,0000,0000,,Se fizermos o pacto com Kyubey,
+Dialogue: 0,0:09:10.26,0:09:12.22,Dialogue,ui,0000,0000,0000,,podemos ajudá-la, certo?
+Dialogue: 0,0:09:12.36,0:09:13.88,Dialogue,nemu,0000,0000,0000,,Acalme-se, Ui.
+Dialogue: 0,0:09:14.06,0:09:17.72,Dialogue,nemu,0000,0000,0000,,Não podemos confiar naquele ser.
+Dialogue: 0,0:09:17.98,0:09:22.42,Dialogue,touka,0000,0000,0000,,Não sabemos nada sobre garotas mágicas.
+Dialogue: 0,0:09:22.96,0:09:27.70,Dialogue,touka,0000,0000,0000,,Para ajudar a Iroha, primeiro\Nprecisamos investigar mais.
+Dialogue: 0,0:09:33.38,0:09:35.18,Dialogue,nemu,0000,0000,0000,,Tente aguentar um pouco.
+Dialogue: 0,0:09:35.38,0:09:38.30,Dialogue,nemu,0000,0000,0000,,Vamos salvar sua irmã.
+Dialogue: 0,0:09:39.42,0:09:42.36,Dialogue,ui,0000,0000,0000,,Sim. Nós três vamos salvá-la.
+Dialogue: 0,0:09:44.40,0:09:51.00,Italics,nemu,0000,0000,0000,,Nós inocentemente esperávamos\Nque houvesse um final feliz.
+Dialogue: 0,0:09:59.28,0:09:59.95,Black Signs 2,,0000,0000,0000,,{\pos(377,9)}Documentos\NAqui!
+Dialogue: 0,0:10:00.03,0:10:01.07,Black Signs 2,,0000,0000,0000,,{\pos(377,9)}Documentos\NAqui!
+Dialogue: 0,0:10:01.16,0:10:02.04,Black Signs 2,,0000,0000,0000,,{\pos(377,9)}Documentos\NAqui!
+Dialogue: 0,0:10:02.56,0:10:04.16,Dialogue,ui,0000,0000,0000,,Vai investigar as bruxas?
+Dialogue: 0,0:10:04.54,0:10:08.67,Dialogue,touka,0000,0000,0000,,Se houvesse uma maneira de removê-las todas,
+Dialogue: 0,0:10:08.90,0:10:11.29,Dialogue,touka,0000,0000,0000,,facilitaria o seu trabalho, não é?
+Dialogue: 0,0:10:11.72,0:10:15.92,Dialogue,nemu,0000,0000,0000,,Basearemos nosso desejo em eliminar as bruxas.
+Dialogue: 0,0:10:15.92,0:10:19.42,Black Signs 2,,0000,0000,0000,,{\c&H242523&\3c&HFAFAFA&\pos(327,11)}Conteúdo da Investigação\N-Alvos de Bruxas  - Como as bruxas agem\N-Distribuição dos desaparecidos   -Kyubey
+Dialogue: 0,0:10:16.42,0:10:17.96,Dialogue,touka,0000,0000,0000,,Primeiro, como vivem?
+Dialogue: 0,0:10:18.14,0:10:20.30,Dialogue,touka,0000,0000,0000,,Parece que elas atacam os humanos.
+Dialogue: 0,0:10:20.30,0:10:22.80,Dialogue,touka,0000,0000,0000,,Vamos investigar os desaparecimentos\Nem Kamihama.
+Dialogue: 0,0:10:22.80,0:10:24.06,Black Signs 2,,0000,0000,0000,,{\c&H6754E8&\pos(483,152)}Revisados
+Dialogue: 0,0:10:26.12,0:10:30.78,Dialogue,touka,0000,0000,0000,,Estes são os lugares onde eles\Nforam vistos pela última vez
+Dialogue: 0,0:10:30.96,0:10:32.94,Dialogue,touka,0000,0000,0000,,ou onde cometeram suicídio.
+Dialogue: 0,0:10:33.30,0:10:36.50,Dialogue,nemu,0000,0000,0000,,Eles podem ser agrupados por zonas.
+Dialogue: 0,0:10:36.78,0:10:41.86,Dialogue,touka,0000,0000,0000,,Se somarmos os acidentes que\Nas bruxas poderiam ter causado...
+Dialogue: 0,0:10:42.08,0:10:44.94,Dialogue,nemu,0000,0000,0000,,E ordenarmos as vítimas cronologicamente...
+Dialogue: 0,0:10:44.94,0:10:46.22,White Signs,,0000,0000,0000,,{\fad(100,1)\fs15\pos(336,43)\3c&H3827CA&}15 anos. Mulher. Causa da morte: desconhecida 25/06 17:32\N\N\N\N\N{\3c&HB52131&}34 anos. Homem. Causa da morte: excesso de trabalho 29/06 23:58\N\N\N\N8 anos. Homem. Causa da morte: desaparecido 04/07 07:26\N\N\N\N\N{\3c&H3827CA&}28 anos. Mulher. Causa da morte: afogamento 07/08 17:14\N\N\N\N{\3c&HB52131&}53 anos. Homem. Causa da morte: enforcamento 17/08 19:52\N\N\N\N\N{\3c&H3827CA&}22 anos. Mulher. Causa da morte morte: acidente de trânsito 24/07 17:19\N\N\N\N46 anos. Sexo feminino. Causa da morte: explosão 02/08 13:36
+Dialogue: 0,0:10:46.22,0:10:47.48,White Signs,,0000,0000,0000,,{\fs25\pos(346,30)\3c&H2D19C7&}15 anos, feminino\N\N\N\N\N\N\N\N\N\N{\3c&HB81B29&}34 anos, masculino
+Dialogue: 0,0:10:47.78,0:10:50.44,Dialogue,ui,0000,0000,0000,,A primeira é sempre uma mulher?
+Dialogue: 0,0:10:50.66,0:10:54.64,Dialogue,touka,0000,0000,0000,,Estão relacionados com a geração de bruxas?
+Dialogue: 0,0:10:54.98,0:10:58.70,Dialogue,touka,0000,0000,0000,,Mesmo que fossem garotas mágicas\Nque foram vencidas pelas bruxas...
+Dialogue: 0,0:10:58.70,0:11:03.47,White Signs,,0000,0000,0000,,{\pos(203,13)\3c&HB81B29&}16 anos, causa da morte: desconhecida\N\N\N\N\N\N\N\N\N14 anos, causa da morte: desconhecida\N\N\N\N\N\N\N\N12 anos, causa da morte: desconhecida\N\N\N\N\N\N\N15 anos, causa da morte: desconhecida
+Dialogue: 0,0:10:59.36,0:11:03.20,Dialogue,nemu,0000,0000,0000,,É estranho essas muitas mortes\Npor causas desconhecidas.
+Dialogue: 0,0:11:04.06,0:11:07.46,Dialogue,touka,0000,0000,0000,,Agora temos que falar com os envolvidos.
+Dialogue: 0,0:11:10.38,0:11:13.24,Dialogue,kyubey,0000,0000,0000,,O que querem me perguntar?
+Dialogue: 0,0:11:14.16,0:11:17.16,Dialogue,ui,0000,0000,0000,,Você vai nos responder honestamente, Kyubey?
+Dialogue: 0,0:11:17.54,0:11:20.36,Dialogue,kyubey,0000,0000,0000,,Claro. Eu não minto.
+Dialogue: 0,0:11:20.86,0:11:22.74,Dialogue,ui,0000,0000,0000,,Então...
+Dialogue: 0,0:11:23.44,0:11:25.48,Dialogue,touka,0000,0000,0000,,Qual é o seu objetivo?
+Dialogue: 0,0:11:26.06,0:11:29.75,Dialogue,kyubey,0000,0000,0000,,Meu objetivo é prolongar a vida deste universo.
+Dialogue: 0,0:11:31.18,0:11:32.62,Dialogue,touka,0000,0000,0000,,E como faria isso?
+Dialogue: 0,0:11:33.24,0:11:37.42,Dialogue,kyubey,0000,0000,0000,,Coletando energia e devolvendo-a\Nao universo após convertê-la.
+Dialogue: 0,0:11:33.24,0:11:37.63,White Signs,,0000,0000,0000,,{\fs23\3c&H414323&\pos(384,35)}Coleta                                                   {\3c&HB7649E&}Conversão
+Dialogue: 0,0:11:37.98,0:11:41.88,Dialogue,ui/kyubey,0000,0000,0000,,— O que são bruxas? \N— A materialização do negativo.
+Dialogue: 0,0:11:42.08,0:11:44.84,Dialogue,ui/kyubey,0000,0000,0000,,— E as Joias da Alma? \N— São as almas de garotas mágicas.
+Dialogue: 0,0:11:44.84,0:11:46.56,Dialogue,ui,0000,0000,0000,,Quer dizer que é algo precioso?
+Dialogue: 0,0:11:46.56,0:11:47.74,Dialogue,ui,0000,0000,0000,,Você as criou?
+Dialogue: 0,0:11:47.38,0:11:53.15,White Signs,,0000,0000,0000,,{\3c&H100EEB&}Materialização
+Dialogue: 0,0:11:47.74,0:11:51.76,Dialogue,kyubey,0000,0000,0000,,Eu apenas materializo\Nsua energia em algo físico.
+Dialogue: 0,0:11:51.76,0:11:53.48,Dialogue,ui,0000,0000,0000,,O que minha irmã pegou?
+Dialogue: 0,0:11:53.48,0:11:54.44,Dialogue,kyubey,0000,0000,0000,,Aquilo é uma Semente de Luto.
+Dialogue: 0,0:11:54.44,0:11:56.80,Dialogue,ui,0000,0000,0000,,O que ela estava fazendo quando a vimos?
+Dialogue: 0,0:11:56.80,0:11:58.86,Dialogue,kyubey/ui,0000,0000,0000,,— Purificando a Joia da Alma.\N— Purificando?
+Dialogue: 0,0:11:58.86,0:12:01.34,Dialogue,kyubey,0000,0000,0000,,Ao usar magia, ela vai se corrompendo.
+Dialogue: 0,0:12:01.34,0:12:03.04,Dialogue,ui,0000,0000,0000,,O que acontece se não purificar?
+Dialogue: 0,0:12:03.04,0:12:05.42,Dialogue,kyubey,0000,0000,0000,,Deixa de conseguir controlar a magia.
+Dialogue: 0,0:12:06.30,0:12:07.90,Dialogue,kyubey,0000,0000,0000,,Estão satisfeitas?
+Dialogue: 0,0:12:08.32,0:12:09.66,Dialogue,ui,0000,0000,0000,,Ah, uma última coisa!
+Dialogue: 0,0:12:09.86,0:12:13.26,Dialogue,ui,0000,0000,0000,,Se todas as bruxas desaparecerem, a minha irmã...
+Dialogue: 0,0:12:14.24,0:12:17.82,Dialogue,ui,0000,0000,0000,,As garotas mágicas teriam uma vida normal?
+Dialogue: 0,0:12:18.62,0:12:21.20,Dialogue,kyubey,0000,0000,0000,,O desaparecimento de todas as bruxas
+Dialogue: 0,0:12:21.20,0:12:25.34,Dialogue,kyubey,0000,0000,0000,,significaria a morte de todas\Nas garotas mágicas.
+Dialogue: 0,0:12:26.04,0:12:29.68,Dialogue,kyubey,0000,0000,0000,,Sementes de Luto só são\Nobtidas derrotando bruxas.
+Dialogue: 0,0:12:31.81,0:12:33.27,White Signs,,0000,0000,0000,,Leite com morango\NEsgotado
+Dialogue: 0,0:12:31.81,0:12:33.27,White Signs,,0000,0000,0000,,{\pos(524,20)}Delicia sedosa\NLeite com banana
+Dialogue: 0,0:12:33.56,0:12:35.50,Dialogue,alina,0000,0000,0000,,Não acredito nisso.
+Dialogue: 0,0:12:43.86,0:12:47.30,Dialogue,ui,0000,0000,0000,,Acho que ele não deu uma resposta completa.
+Dialogue: 0,0:12:47.84,0:12:49.16,Dialogue,nemu,0000,0000,0000,,É suficiente.
+Dialogue: 0,0:12:49.38,0:12:52.06,Dialogue,touka,0000,0000,0000,,Já sabemos qual é o papel de Kyubey,
+Dialogue: 0,0:12:52.26,0:12:55.40,Dialogue,touka,0000,0000,0000,,e imaginamos a verdade sobre as garotas mágicas.
+Dialogue: 0,0:12:55.88,0:12:57.18,Dialogue,ui,0000,0000,0000,,Como assim?
+Dialogue: 0,0:13:00.22,0:13:03.68,Dialogue,ui,0000,0000,0000,,Me expliquem, Touka e Nemu.
+Dialogue: 0,0:13:07.28,0:13:10.62,Dialogue,nemu,0000,0000,0000,,As bruxas são o destino das garotas mágicas.
+Dialogue: 0,0:13:09.55,0:13:11.44,Black Signs 2,,0000,0000,0000,,{\pos(381,29)\c&H626564&\3c&HFCFEFE&}Um futuro livre
+Dialogue: 0,0:13:11.94,0:13:13.42,Dialogue,nemu,0000,0000,0000,,E aquele é o...
+Dialogue: 0,0:13:15.12,0:13:16.66,Dialogue,nemu,0000,0000,0000,,futuro da Iroha.
+Dialogue: 0,0:13:20.62,0:13:23.58,Dialogue,touka,0000,0000,0000,,Como podemos impedir que Iroha\Nse transforme em uma bruxa?
+Dialogue: 0,0:13:23.80,0:13:29.32,Dialogue,touka,0000,0000,0000,,O problema é que é o destino de toda garota mágica.
+Dialogue: 0,0:13:29.34,0:13:31.58,Black Signs 2,,0000,0000,0000,,{\bord4\c&H221C15&\3c&HE0D4BC&\pos(237,10)}Joia da Alma Corrompida = transformação em bruxa
+Dialogue: 0,0:13:30.04,0:13:32.10,Dialogue,touka,0000,0000,0000,,Então, a resposta é simples.
+Dialogue: 0,0:13:31.58,0:13:32.70,Black Signs 2,,0000,0000,0000,,{\c&H100D04&\3c&HE5DAC5&}transformação em bruxa
+Dialogue: 0,0:13:32.32,0:13:34.42,Dialogue,touka,0000,0000,0000,,Basta eliminarmos esse destino.
+Dialogue: 0,0:13:35.46,0:13:37.10,Dialogue,ui,0000,0000,0000,,Mas... como?
+Dialogue: 0,0:13:40.32,0:13:42.09,Black Signs 2,,0000,0000,0000,,{\fs15\pos(268,65)\c&H767B7A&\3c&HEFF1F3&}Visita ao hospital, visita ao hospital...
+Dialogue: 0,0:13:40.32,0:13:42.09,Black Signs 2,,0000,0000,0000,,{\pos(299,204)\c&H4416C8&}Alta do hospital
+Dialogue: 0,0:13:53.26,0:13:56.94,Dialogue,alina,0000,0000,0000,,Você não me disse uma coisa muito importante.
+Dialogue: 0,0:13:57.40,0:13:59.19,Dialogue,kyubey,0000,0000,0000,,O que você está falando?
+Dialogue: 0,0:13:59.72,0:14:04.18,Dialogue,alina,0000,0000,0000,,Ouvi dizer que garotas mágicas\Nse transformam em bruxas.
+Dialogue: 0,0:14:04.52,0:14:07.04,Dialogue,kyubey,0000,0000,0000,,Ah, era isso? Sim, exatamente.
+Dialogue: 0,0:14:10.18,0:14:13.60,Dialogue,kyubey,0000,0000,0000,,Não me desperdice, por favor.
+Dialogue: 0,0:14:19.78,0:14:23.26,Dialogue,kyubey,0000,0000,0000,,Qual desejo vocês querem realizar?
+Dialogue: 0,0:14:24.38,0:14:26.22,Dialogue,ui,0000,0000,0000,,Nosso desejo...
+Dialogue: 0,0:14:26.50,0:14:29.04,Dialogue,nemu,0000,0000,0000,,É ter poder para mudar o futuro.
+Dialogue: 0,0:14:30.12,0:14:31.68,Dialogue,kyubey,0000,0000,0000,,Como assim?
+Dialogue: 0,0:14:32.32,0:14:33.86,Dialogue,touka,0000,0000,0000,,Nós...
+Dialogue: 0,0:14:35.14,0:14:37.68,Dialogue,ui/nemu/touka,0000,0000,0000,,Queremos os poderes que você possui!
+Dialogue: 0,0:14:46.86,0:14:49.00,Dialogue,ui,0000,0000,0000,,Quero o poder para coletar.
+Dialogue: 0,0:14:49.40,0:14:51.64,Dialogue,touka,0000,0000,0000,,Eu quero o poder para converter!
+Dialogue: 0,0:14:52.02,0:14:54.24,Dialogue,nemu,0000,0000,0000,,E eu, o poder de materialização.
+Dialogue: 0,0:14:54.78,0:14:57.88,Dialogue,ui/nemu/touka,0000,0000,0000,,Deixe-nos roubar seus poderes, Kyubey!
+Dialogue: 0,0:14:58.20,0:15:00.88,Dialogue,kyubey,0000,0000,0000,,Não pode ser! Vocês...!
+Dialogue: 0,0:15:46.12,0:15:48.34,Dialogue,touka,0000,0000,0000,,Primeiro, vamos usar o poder de coleta da Ui
+Dialogue: 0,0:15:48.34,0:15:51.12,Dialogue,touka,0000,0000,0000,,para reunir a corrupção das Joias da Alma.
+Dialogue: 0,0:15:59.52,0:16:02.26,Dialogue,touka,0000,0000,0000,,Em seguida, com meu poder de conversão,
+Dialogue: 0,0:16:02.26,0:16:06.16,Dialogue,touka,0000,0000,0000,,transformar essa corrupção em um\Npoder para as Garotas Mágicas.
+Dialogue: 0,0:16:09.02,0:16:14.08,Dialogue,touka,0000,0000,0000,,Por último, Nemu materializará\Nessa magia como energia física.
+Dialogue: 0,0:16:15.24,0:16:18.64,Dialogue,touka,0000,0000,0000,,Com ela, um sistema automático de purificação
+Dialogue: 0,0:16:18.64,0:16:22.62,Dialogue,touka,0000,0000,0000,,reunirá toda a corrupção de uma vasta área.
+Dialogue: 0,0:16:23.06,0:16:27.88,Dialogue,touka,0000,0000,0000,,Com esse sistema, as Joias da Alma\Nnão acumularão corrupção.
+Dialogue: 0,0:16:30.80,0:16:31.82,Dialogue,nemu,0000,0000,0000,,Funcionou.
+Dialogue: 0,0:16:31.82,0:16:32.80,Dialogue,touka,0000,0000,0000,,É verdade!
+Dialogue: 0,0:16:33.12,0:16:36.84,Dialogue,touka,0000,0000,0000,,Kyubey ficou vazio ao perder seus poderes.
+Dialogue: 0,0:16:39.26,0:16:40.24,Dialogue,nemu,0000,0000,0000,,Ui?
+Dialogue: 0,0:16:42.66,0:16:45.52,Dialogue,touka,0000,0000,0000,,O que aconteceu com você, Ui? Ei!
+Dialogue: 0,0:16:48.42,0:16:51.98,Dialogue,nemu,0000,0000,0000,,Não... Está coletando corrupção muito rápido.
+Dialogue: 0,0:16:51.98,0:16:54.28,Dialogue,touka,0000,0000,0000,,Ui, pare logo a coleta!
+Dialogue: 0,0:16:56.16,0:16:58.44,Dialogue,nemu,0000,0000,0000,,Nesse ritmo, ela se tornará uma bruxa.
+Dialogue: 0,0:16:58.64,0:17:01.16,Dialogue,touka,0000,0000,0000,,Não podemos deixar isso acontecer!
+Dialogue: 0,0:17:01.40,0:17:04.41,Dialogue,nemu,0000,0000,0000,,Se reduzirmos a corrupção com nossos poderes...
+Dialogue: 0,0:17:05.80,0:17:07.92,Dialogue,touka,0000,0000,0000,,Não consigo convertê-la a tempo...!
+Dialogue: 0,0:17:08.60,0:17:11.09,Dialogue,touka,0000,0000,0000,,Não, Ui! Volte para nós!
+Dialogue: 0,0:17:12.24,0:17:14.66,Dialogue,nemu,0000,0000,0000,,Touka, não aguento mais...
+Dialogue: 0,0:17:14.84,0:17:17.93,Dialogue,touka,0000,0000,0000,,Não! Isso não pode acontecer!
+Dialogue: 0,0:17:23.12,0:17:24.14,Dialogue,nemu,0000,0000,0000,,Parou?
+Dialogue: 0,0:17:24.46,0:17:25.38,Dialogue,touka,0000,0000,0000,,Agora!
+Dialogue: 0,0:17:36.48,0:17:38.68,Dialogue,touka,0000,0000,0000,,Nemu, pegue a alma da Ui.
+Dialogue: 0,0:17:39.16,0:17:40.16,Dialogue,nemu,0000,0000,0000,,Touka!
+Dialogue: 0,0:17:41.36,0:17:43.04,Dialogue,nemu,0000,0000,0000,,Não, vai se fragmentar!
+Dialogue: 0,0:17:43.60,0:17:45.79,Dialogue,nemu,0000,0000,0000,,Preciso de um receptáculo para mantê-la!
+Dialogue: 0,0:18:10.66,0:18:13.46,Dialogue,nemu,0000,0000,0000,,Me perdoe, Ui.
+Dialogue: 0,0:18:21.98,0:18:24.32,Dialogue,touka,0000,0000,0000,,Incrível! Isso é incrível!
+Dialogue: 0,0:18:24.48,0:18:26.80,Dialogue,touka,0000,0000,0000,,Nós tivemos sucesso!
+Dialogue: 0,0:18:27.22,0:18:28.62,Dialogue,nemu,0000,0000,0000,,Sucesso?
+Dialogue: 0,0:18:30.14,0:18:32.52,Dialogue,alina,0000,0000,0000,,{\i1}Congratulations{\i0}!
+Dialogue: 0,0:18:33.08,0:18:36.51,Dialogue,touka,0000,0000,0000,,Foi você quem colocou essa barreira?
+Dialogue: 0,0:18:37.80,0:18:42.01,Dialogue,alina,0000,0000,0000,,Eu tenho um nome. Sou Alina Grey.
+Dialogue: 0,0:18:46.94,0:18:50.28,Dialogue,ui/eve,0000,0000,0000,,— Salvem a Iroha.\N— Salvem as garotas mágicas.
+Dialogue: 0,0:18:52.18,0:18:53.14,Dialogue,nemu,0000,0000,0000,,Ui?
+Dialogue: 0,0:18:53.46,0:18:55.54,Dialogue,alina,0000,0000,0000,,Que {\i1}witch{\i0} é essa?
+Dialogue: 0,0:18:56.06,0:19:00.80,Dialogue,touka,0000,0000,0000,,Resumindo, é uma bruxa artificial que criamos.
+Dialogue: 0,0:19:02.10,0:19:04.06,Dialogue,touka,0000,0000,0000,,Ainda é um bebê,
+Dialogue: 0,0:19:04.06,0:19:06.10,Dialogue,touka,0000,0000,0000,,mas quando crescer,
+Dialogue: 0,0:19:06.32,0:19:09.54,Dialogue,touka,0000,0000,0000,,será um sistema que impedirá\Nque garotas mágicas se tornem bruxas.
+Dialogue: 0,0:19:10.42,0:19:13.04,Dialogue,nemu,0000,0000,0000,,Do que está falando, Touka?
+Dialogue: 0,0:19:13.54,0:19:15.04,Dialogue,nemu,0000,0000,0000,,Esta é a Ui.
+Dialogue: 0,0:19:15.60,0:19:17.44,Dialogue,nemu,0000,0000,0000,,Nós fracassamos...
+Dialogue: 0,0:19:17.68,0:19:20.80,Dialogue,touka,0000,0000,0000,,Pare de dizer coisas sem sentido!
+Dialogue: 0,0:19:20.80,0:19:22.82,Dialogue,touka,0000,0000,0000,,Não fracassamos em nada!
+Dialogue: 0,0:19:22.82,0:19:25.18,Dialogue,touka,0000,0000,0000,,E quem é essa "Ui"?
+Dialogue: 0,0:19:26.96,0:19:28.06,Dialogue,nemu,0000,0000,0000,,Ui é...
+Dialogue: 0,0:19:29.14,0:19:34.44,Dialogue,touka,0000,0000,0000,,Alina Gray, se você se juntar a nós,\Na revolução será mais rápida.
+Dialogue: 0,0:19:34.74,0:19:39.42,Dialogue,alina,0000,0000,0000,,Uma {\i1}revolution{\i0} requer um show {\i1}exciting{\i0} e {\i1}bad{\i0}.
+Dialogue: 0,0:19:39.78,0:19:42.48,Dialogue,alina,0000,0000,0000,,E sou {\i1}perfect{\i0} para isso!
+Dialogue: 0,0:19:43.38,0:19:44.96,Dialogue,nemu,0000,0000,0000,,O que está acontecendo?
+Dialogue: 0,0:19:45.54,0:19:47.64,Dialogue,nemu,0000,0000,0000,,Por que apenas eu me lembro?
+Dialogue: 0,0:19:49.40,0:19:50.52,Dialogue,nemu,0000,0000,0000,,É mesmo...
+Dialogue: 0,0:19:50.74,0:19:56.54,Dialogue,nemu,0000,0000,0000,,Touka converteu a alma de Ui,\Ne eu a isolei no corpo de Kyubey,
+Dialogue: 0,0:19:56.88,0:20:00.94,Dialogue,nemu,0000,0000,0000,,e isso separou sua existência deste mundo.
+Dialogue: 0,0:20:01.24,0:20:02.24,Black Signs 2,,0000,0000,0000,,{\pos(501,52)\c&HADADB3&}Satomi Touka\NHiiragi Nemu
+Dialogue: 0,0:20:02.58,0:20:05.96,Dialogue,touka,0000,0000,0000,,O que você está murmurando\Naí até agora, Nemu?
+Dialogue: 0,0:20:06.52,0:20:10.36,Dialogue,touka,0000,0000,0000,,Temos que salvar as garotas mágicas.
+Dialogue: 0,0:20:11.80,0:20:12.85,Dialogue,nemu,0000,0000,0000,,Salvar?
+Dialogue: 0,0:20:13.20,0:20:15.14,Dialogue,touka,0000,0000,0000,,Sim, vamos salvá-las.
+Dialogue: 0,0:20:15.82,0:20:18.23,Dialogue,ui/eve,0000,0000,0000,,— Salvem a Iroha.\N— Salvem as garotas mágicas.
+Dialogue: 0,0:20:25.88,0:20:27.14,Dialogue,nemu,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:20:27.88,0:20:31.76,Dialogue,nemu,0000,0000,0000,,Vamos salvar todas as garotas mágicas.
+Dialogue: 0,0:20:32.48,0:20:35.42,Dialogue,touka,0000,0000,0000,,Que ótimo! Voltou a ser a Nemu de sempre.
+Dialogue: 0,0:20:35.42,0:20:38.25,Dialogue,alina,0000,0000,0000,,Como chamamos essa {\i1}witch{\i0}?
+Dialogue: 0,0:20:39.76,0:20:45.14,Dialogue,nemu,0000,0000,0000,,É a origem da esperança para as\Ngarotas mágicas. Então, será a Eva.
+Dialogue: 0,0:20:46.98,0:20:48.46,Dialogue,nemu,0000,0000,0000,,Eva Embrionária.
+Dialogue: 0,0:20:54.64,0:20:58.40,Dialogue,touka,0000,0000,0000,,Vamos acabar com o desespero\Ndas garotas mágicas.
+Dialogue: 0,0:20:58.84,0:21:03.30,Dialogue,touka,0000,0000,0000,,Primeiro você tem que remover\Nesse obstáculo branco.
+Dialogue: 0,0:21:07.04,0:21:10.66,Dialogue,touka,0000,0000,0000,,A revolução fará com que eles\Nse lembrem do nosso nome.
+Dialogue: 0,0:21:10.66,0:21:12.80,Dialogue,alina,0000,0000,0000,,{\i1}It's showtime{\i0}!
+Dialogue: 0,0:21:23.34,0:21:26.96,Dialogue,touka,0000,0000,0000,,Vamos libertar as garotas mágicas.
+Dialogue: 0,0:21:41.50,0:21:43.52,Italics,nemu,0000,0000,0000,,Nós fracassamos.
+Dialogue: 0,0:21:44.60,0:21:49.44,Italics,nemu,0000,0000,0000,,Não temos mais nada para reaver.
+Dialogue: 0,0:21:50.94,0:21:54.08,Italics,nemu,0000,0000,0000,,Mas ainda assim, pelo menos eu...
+Dialogue: 0,0:21:57.70,0:21:58.92,Italics,nemu,0000,0000,0000,,Eu lembro.
+Dialogue: 0,0:22:01.48,0:22:04.95,Título ep 2,,0000,0000,0000,,Nós fracassamos
