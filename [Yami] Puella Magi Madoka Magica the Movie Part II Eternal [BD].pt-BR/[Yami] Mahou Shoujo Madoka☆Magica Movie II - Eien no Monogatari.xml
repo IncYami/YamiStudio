@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>2040767212516080515</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>18031580971439731600</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Introdução</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>712032965977624721</ChapterUID>
+      <ChapterTimeStart>00:04:09.457000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Abertura A</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>101937703528206257</ChapterUID>
+      <ChapterTimeStart>00:05:48.556000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Parte A</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>9262165126947734161</ChapterUID>
+      <ChapterTimeStart>00:54:57.294000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Abertura B</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1680132962109588110</ChapterUID>
+      <ChapterTimeStart>00:56:29.386000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Parte B</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>12293154320265871014</ChapterUID>
+      <ChapterTimeStart>01:41:52.314000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Encerramento A</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>12034375234840321454</ChapterUID>
+      <ChapterTimeStart>01:43:26.033000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Parte C</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>914093795160191364</ChapterUID>
+      <ChapterTimeStart>01:44:33.016000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Encerramento B</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>5844918410397247370</ChapterUID>
+      <ChapterTimeStart>01:49:28.562000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prévia</ChapterString>
+        <ChapterLanguage>por</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>3251524168089729413</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>12768346952363446567</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Prologue</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+        <ChapLanguageIETF>ja</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2659654789004663142</ChapterUID>
+      <ChapterTimeStart>00:00:23.023000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>OP</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+        <ChapLanguageIETF>ja</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>8738709380698423025</ChapterUID>
+      <ChapterTimeStart>00:01:53.030000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Part A</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+        <ChapLanguageIETF>ja</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>9968753113801377225</ChapterUID>
+      <ChapterTimeStart>00:16:21.022000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Part B</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+        <ChapLanguageIETF>ja</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2994011401136822193</ChapterUID>
+      <ChapterTimeStart>00:22:10.037000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>ED</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+        <ChapLanguageIETF>ja</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
