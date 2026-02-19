@@ -10,7 +10,7 @@
 - [Date A Live IV](https://nyaa.si/view/1951649)
 - [Date A Live V](https://nyaa.si/view/1951650)
 - [Code Geass Lelouch of the Rebellion](https://nyaa.si/view/2023786)
-- Code Geass Lelouch of the Rebellion R2
+- [Code Geass Lelouch of the Rebellion R2](https://transfer.it/t/lwfkv2gjBLqQ)
 - [Code Geass Lelouch of the Re;surrection](https://transfer.it/t/Em09rMtlzDCC)
 - [Eromanga Sensei OVA](https://nyaa.si/view/1986896)
 - [Kimi no Na wa.](https://nyaa.si/view/1986891)
