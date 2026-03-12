@@ -2,8 +2,6 @@
 
 ## 📜 Repositório oficial contendo todos os arquivos de legenda (.ass) dos projetos traduzidos e editados. As atividades foram encerradas e os projetos estão catalogados abaixo de acordo com seu status final de produção.
 
-*Embora as portas daqui se fechem, ainda estarei presente em outros lugares com outros projetos [Shadow/Tempest] 👀*
-
 ### Projetos que possuem links de download ativos - *Última atualização: [12/03/2026]*
 - [Black Bullet](https://nyaa.si/view/1958289)
 - [Date A Live (DC)](https://nyaa.si/view/1951642)
