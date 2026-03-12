@@ -4,25 +4,25 @@
 
 *Embora as portas daqui se fechem, ainda estarei presente em outros lugares com outros projetos [Shadow/Tempest] 👀*
 
-### **Projetos que possuem links de download ativos**
+### Projetos que possuem links de download ativos - *Última atualização: [12/03/2026]*
 - [Black Bullet](https://nyaa.si/view/1958289)
 - [Date A Live (DC)](https://nyaa.si/view/1951642)
 - [Date A Live IV](https://nyaa.si/view/1951649)
 - [Date A Live V](https://nyaa.si/view/1951650)
-- [Code Geass Lelouch of the Rebellion](https://nyaa.si/view/2023786)
+- [Code Geass Lelouch of the Rebellion](https://transfer.it/t/7IwDJUlRWTRZ)
 - [Code Geass Lelouch of the Rebellion R2](https://transfer.it/t/lwfkv2gjBLqQ)
 - [Code Geass Lelouch of the Re;surrection](https://transfer.it/t/Em09rMtlzDCC)
 - [Eromanga Sensei OVA](https://nyaa.si/view/1986896)
 - [Kimi no Na wa.](https://nyaa.si/view/1986891)
-- [Kyoukai no Kanata](https://nyaa.si/view/1952255)
-- [Kyoukai no Kanata #0 Shinonome](https://nyaa.si/view/1952256)
-- [Kyoukai no Kanata I'LL BE HERE - Kako-hen](https://nyaa.si/view/1952267)
-- [Kyoukai no Kanata I'LL BE HERE - Mirai-hen](https://nyaa.si/view/1952269)
-- [Overlord](https://nyaa.si/view/1958290)
-- [Overlord II](https://nyaa.si/view/1958291)
-- [Overlord III](https://nyaa.si/view/1958292)
-- [Overlord IV](https://nyaa.si/view/1958293)
-- [Overlord The Sacred Kingdom](https://nyaa.si/view/1964148)
+- [Kyoukai no Kanata](https://transfer.it/t/XhsmGxolVJpa)
+- [Kyoukai no Kanata #0 Shinonome](https://transfer.it/t/SVWCmkoxQD5a)
+- [Kyoukai no Kanata I'LL BE HERE - Kako-hen](https://transfer.it/t/FBfZOkxB1bqC)
+- [Kyoukai no Kanata I'LL BE HERE - Mirai-hen](https://transfer.it/t/12j6Ptp1wBYD)
+- [Overlord](https://transfer.it/t/HhlaJQthiTgL)
+- [Overlord II](https://transfer.it/t/ndVxiphlCT5B)
+- [Overlord III](https://transfer.it/t/fWbKGkhzkLTD)
+- [Overlord IV](https://transfer.it/t/NDGID8pzHb6S)
+- [Overlord The Sacred Kingdom](https://transfer.it/t/4wbb24oxEZzD)
 
 ## 🟢 Projetos (Batch)
 > *Projetos que foram concluídos, passaram por uma revisão técnica final e foram relançados em pacotes (Batch).*
